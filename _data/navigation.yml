@@ -1,0 +1,17 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Overview"
+    url: /overview/
+  - title: "Outcomes"
+    url: /outcomes/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Principles"
+    url: /principles/
+  - title: "Resources"
+    url: /resources/
+  - title: "Archive"
+    url: /archive/
+  - title: "Tags"
+    url: /tags/
