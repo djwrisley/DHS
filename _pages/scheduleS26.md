@@ -51,7 +51,7 @@ In the schedule below, the first column `date` indicates the meeting date of the
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 1 Sept | none | <br> -Introduction to course, expectations, syllabus <br> -Introducing ourselves <br> -[course site](https://djwrisley.github.io/DHS) | 
-| 3 Sept | <br> -Digital Mapping (Wilson, in drive) <br> -["How Crowdsourcing and Smartphones are Redefining Spatial Data"](https://www.youtube.com/watch?v=eKwS5MrMopg) <br> -["You're Leaking your location"](https://www.youtube.com/watch?v=A9DPDE0FZeQ) <br> -["Do Maps Lie?"](https://www.youtube.com/watch?v=G0_MBrJnRq0) <br> -[The True Size of...](https://thetruesize.com)| <br> -Discussion of genearl course issues <br> -[Introduction to static sites](https://djwrisley.github.io/RLAC/blog/introduction-to-static-sites/) | 
+| 3 Sept | <br> -Digital Mapping (Wilson, in drive) <br> -["How Crowdsourcing and Smartphones are Redefining Spatial Data"](https://www.youtube.com/watch?v=eKwS5MrMopg) <br> -["You're Leaking your location"](https://www.youtube.com/watch?v=A9DPDE0FZeQ) <br> -[Mercator vs True Size](https://brilliantmaps.com/mercator-vs-true-size/) <br> -["Do Maps Lie?"](https://www.youtube.com/watch?v=G0_MBrJnRq0) <br> -[The True Size of...](https://thetruesize.com)| <br> -Discussion of genearl course issues <br> -[Introduction to static sites](https://djwrisley.github.io/RLAC/blog/introduction-to-static-sites/) | 
 
 
 ### Week 2 (8, 10 September) Exploring Spatial Data and Spatial Data Practices 
