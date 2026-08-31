@@ -14,7 +14,7 @@ NYUAD’s Core Curriculum is designed to encourage students and faculty to think
 
 The class will require you to be hands on about your learning. There will be lectures, discussions as well as guided exercises. In discussion and writing you will have the opportunity to share critical ideas and opinions about the material. 
 
-Over the semester we will try out different digital environments and experiment with common practices in digital culture–from the easy to the less easy–to explore spatial data and its relationship to society and the human record. In so doing, we will be experimenting with different forms of data creation, manipulation, visualization and storytelling.
+Over the semester we will try out different digital environments and experiment with common practices in digital culture–from the easy to the less easy–to explore spatial data and its relationship to society and to documents from the human record. In so doing, we will be experimenting with different forms of data creation, manipulation, visualization and storytelling.
 
 Some baseline things we will do in the course include: building a site to host your work, working with computational notebooks, discussing the various materials of the course, and engaging with data and technology and writing about it critically.
 
@@ -32,7 +32,6 @@ The Core Curriculum Program Learning Outcomes are to
 3.  Demonstrate self-understanding and intercultural competency; (CLO 4, 6) 
 
 4.  Identify and reflect critically on conceptual and ethical complexity. (CLO 4, 8) 
-
 
 ## Course Learning Outcomes
 

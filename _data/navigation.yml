@@ -10,12 +10,12 @@ main:
   
   - title: "Assessment"
     url: /assessment/
-  
-  - title: "Rubrics"
-    url: /rubrics/
 
   - title: "Principles"
     url: /principles/
+  
+  - title: "Rubrics"
+    url: /rubrics/
 
   - title: "Tags"
     url: /tags/
