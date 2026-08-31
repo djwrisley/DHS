@@ -18,7 +18,7 @@ This course uses a set of different assessment methods to evaluate your learning
 
 Active participation is essential for success in this course. This includes:
 - Attending synchronous class sessions (TuTh 11:20-12:35)
-- Engaging thoughtfully in discussions and activities
+- Engaging thoughtfully in discussions and activities, without recourse to generative AI in real time
 - Completing in-class exercises and workshops
 - Contributing to peer learning and collaborative work
 

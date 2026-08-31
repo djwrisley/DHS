@@ -20,6 +20,6 @@ It is a new and interesting experience for students to work in the open, since i
 
 **Integrity**: Academic integrity and honesty are central components of a student’s education. Ethical conduct maintained in an academic context will be taken eventually into a student’s professional career. Academic honesty is essential to a community of teachers and learners. Anything less than total commitment to honesty undermines the efforts of the entire academic community.
 
-Since we will be making adequate use of the web and occasional use of generative AI tools, we will be learning new ways to cite the work of others that are appropriate for web-based writing as well as to acknowledge such forms of machine assistance. Each assignment will be explicit about what is acceptable. 
-
 NYU Abu Dhabi expects its students to adhere to the highest possible standards of scholarship and academic conduct. Students should be aware that engaging in behaviors that violate the standards of academic integrity will be subject to review and may face the imposition of penalties in accordance with the procedures set out in the [NYUAD's Academic Integrity Policy](https://nyuad.nyu.edu/en/about/policies-and-procedures/student-code-of-conduct.html).
+
+**AI Policy**: Since we will be making adequate use of the web and occasional use of generative AI tools, we will be learning new ways to cite the work of others that are appropriate for web-based writing as well as to acknowledge such forms of machine assistance. Each assignment will be explicit about what is acceptable. 
