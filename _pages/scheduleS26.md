@@ -129,72 +129,92 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 
 ### Week 8 (27, 29 October)
 
+**Topic:** 
+
+Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
+
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 24 March | [guidelines for oral exam](https://djwrisley.github.io/RLAC/oralreflectionquestions/) | re-introduction of the oral exam |
-| 26 March | stylometry, stylo package for R | Notebook: "Stylometry with RLAC Ghostwriters" (posit.cloud) |
+| 27 Oct | [guidelines for oral exam](https://djwrisley.github.io/RLAC/oralreflectionquestions/) | re-introduction of the oral exam |
+| 29 Oct | stylometry, stylo package for R | Notebook: "Stylometry with RLAC Ghostwriters" (posit.cloud) |
 
 
 ### Week 9 (3, 5 November)
 
-**Topic:** TF/IDF and Distinctive Words. Integrating CoPilot into our Analysis (benefits, drawbacks and ethics)
+**Topic:** 
+
+Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 31 March | no class due to connectivity issues | no class due to connectivity issues |
-| 2 April | stylometry with Project Gutenberg science fiction authors | <br> -Notebook: "Stylometry with RLAC Ghostwriters" <br> -Notebook: "Rolling Stylometry with Science Fiction writers" |
+| 3 Nov |  |  |
+| 5 Nov |  |  |
 
-**Second Assignment Due: Friday, April 13** Comparing TF IDF & Stylometry with science fiction authors. Prompt located [here](). Rubric can be found on the rubrics tab.
+> Oral Exams during the week of 24 November. Sign ups available [here](). 
+
+**Second Assignment Due: XXXX ** XXXX . Prompt located [here](). Rubric can be found on the rubrics tab.
 {: .notice}
 
 ### Week 10 (10, 12 November)
 
-**Topic:** Term Frequency - Inverse Document Frequency (TF IDF), Uses and Sensitivites; Case Study with OCR and Entity Extraction "1, the Road"
+**Topic:** 
+
+Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 7 April | <br> -[TF-IDF, what is it?](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) <br> -Comparing TF, IDF to other frequency metrics | Notebook: "TF-IDF with science fiction writers from Project Gutenberg" |
-| 9 April | <br> -The novel, "1, The Road" <br> -Kerouac's novel On the Road <br> -Fiction written by AI <br> -On doing OCR with tesseract | <br> -Notebook: "Extracting Information from '1, The Road amd Mapping the Itinerary" |
+| 10 Nov |  |  |
+| 12 Nov |  |  |
 
 ### Week 11 (17, 19 November)
 
-Instructor Away at a conference. 
+Instructor Away at a conference. Courses made up the following week for oral exams. 
 
-**Topic:** Word Embeddings  
 
-Introduction to word embeddings and semantic relationships. Understanding distributed representations of meaning.
+### Week 12 (24, 26 November)
+
+**Topic:** 
+
+Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 14 April | <br> -TF-IDF, what is it? <br> -Comparing TF, IDF to other frequency metrics | Notebook: "TF-IDF with science fiction writers from Project Gutenberg" |
-| 16 April | <br> -[The novel, "1, The Road"](https://en.wikipedia.org/wiki/1_the_Road) <br> -[On Ross Goodwin](https://aiartists.org/ross-goodwin) <br> -[Kerouac's 1957 novel On the Road](https://en.wikipedia.org/wiki/On_the_Road) <br> -[Authors and Publishers Using AI](https://www.goodreads.com/list/show/184248.Authors_Publishers_Using_AI_Artificial_Intelligence_)  | <br> -[Batch OCR with tesseract](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files) <br> -Notebook: "Extracting Information from '1, The Road amd Mapping the Itinerary" |
+| 10 Nov |  |  |
+| 12 Nov |  |  |
 
-**Second Response Due: Friday, April 20** Giving an LLM uncontextualized data about an itinerary. Prompt [here](). Rubric in the rubric tab. 
+**Third Assignment Due:XXXX ** XXXX. Prompt [here](). Rubric in the rubric tab. 
 {: .notice} 
-
-### Week 12 (24, 26 November)
-**Topic:** Word Embeddings 2 / Topic Modeling 
-More with word embeddings. Visualization and interpretation of semantic spaces.
-
-**Third Assignment Due: Sunday, 10 May** Comparing Topic modeling and word embeddings for science fiction corpus. Prompt [here](). Rubric in the rubric tab. 
-{: .notice} 
-
-Oral Exam week of March 30th. Sign ups available [here](). 
 
 ### Week 13 (1 December)
 
-**Topic:** Comparison of Approaches & Lab Time  
+**Topic:** 
 
-Hands-on work on final projects. Individual and small group consultations with instructor.
+Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
 
-National Day Holiday! 
+| Date | Preparation | Activity | 
+| :--- | :--- | :--- |
+| 1 Dec |  |  |
+| 3 Dec | none | National Day Holiday! |
+
 
 ### Week 14 (8, 10 December)
 
-**Topic:** Lab Time / Final Presentations Preparation  
+**Topic:** 
 
-Continued project work. Preparing presentations and written components.
+Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
 
-### Week 15 (14 December)
+| :--- | :--- | :--- |
+| 1 Dec |  |  |
+| 3 Dec |  |  |
 
-Legislative Day
+### Week 15 (14 December) - Legislative Day
+
+**Topic:** 
+
+Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
+
+| :--- | :--- | :--- |
+| 14 Dec |  |  |
+
+
+

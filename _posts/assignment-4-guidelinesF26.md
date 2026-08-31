@@ -1,5 +1,5 @@
 ---
-title: Final Assignment Guidelines
+title: Assignment 4 Guidelines
 permalink: /assignments/assignment-4-guidelines/
 layout: single
 ---

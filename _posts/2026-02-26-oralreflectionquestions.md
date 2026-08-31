@@ -1,20 +1,20 @@
 ---
-title: "Format for Midterm Oral Reflection S26"
+title: "Format for Midterm Oral Reflection F26"
 excerpt: ""
 tags:
   - Oral Exam
-  - S26
+  - F26
 ---
 
-## Overview - FINAL 
+## Overview - DRAFT 
 
-I have curated here a number of possible oral exam questions that would be relevant for the middle of the term in this class. 
+I have curated here a number of possible oral exam questions that would be relevant for the near completion of the term in this class. 
 
 ## Format of the Oral Exam 
 
 The oral exams will cover readings, material covered in your assignments and any material more generally in the class. 
 
-The oral exam will take place remotely via Zoom. Everyone has signed up for a time to have their exam. Camera needs to be on in Zoom and you should arrange for a quiet place to do the exam. It will last a maximum of 20 minutes (expect a little less) and we will use the [all screens mode](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0074632) in Zoom. You will receive a unique calendar invite with a Zoom link for your exam time. There are 10 minutes between each of the oral exams of downtime for me. Please be on time. If late, you will only have the remainder of the time left for the meeting.
+The oral exam will take place in person in my office. Everyone has signed up for a time to have their exam. It will last a maximum of 20 minutes (expect a little less). There are 10 minutes between each of the oral exams of downtime for me. Please be on time, but don't come so early so that you wait outside my office. If late, you will only have the remainder of the time left for the meeting.
 
 The most important part of the Oral Exam is not all the knowledge you have memorized, but that it is a "student-driven" conversation. I will expect for you to keep the conversation going. I will ask follow up questions, time permitted.
 
@@ -24,7 +24,7 @@ The most important part of the Oral Exam is not all the knowledge you have memor
 - to give students an opportunity to synthesize course materials periodically
 - to use terms from the course correctly in academic conversation
 - to see if you are able to revise or deepen an answer when prompted to go beyond an initial answer 
-- to demonstrate metacognitive and reflective thinking ("I know this, but I'm not sure about...")
+- to demonstrate metacognitive and reflective thinking in an interdisciplinary context ("I know this, but I'm not sure about...")
 - to demonstrate awareness of course interests outside of the class, in a spoken register
 
 ## Level 1 : Recall: Terms from the Class 
