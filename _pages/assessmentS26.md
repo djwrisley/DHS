@@ -28,7 +28,7 @@ Active participation is essential for success in this course. This includes:
 
 ### Four Assignments (70% total — the first one is 10%; 30% for the other two)
 
-There are four open-ended assignments that apply course methods to new contexts and texts. I will count three of them. It is your choice to complete three or four assignments. If you complete the fourth assignment you can receive up to five (5) extra points on top of your course work. 
+There are four open-ended assignments that apply course methods to new contexts and texts. I will count the three best grades to calculate your final grade. It is your choice to complete three or four assignments. If you complete the fourth assignment you can receive up to five (5) extra points on top of your course work. 
 
 NB: If you do not complete an assignment within ten days of the due date, you will not be allowed to go back to complete it. 
 
