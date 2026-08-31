@@ -12,17 +12,21 @@ layout: single
 
 By the end of this course, students will:
 
-1. **Compare basic techniques of computer-assisted analysis of texts** — Understand different computational approaches to text analysis and when each is appropriate.
+1. Explore representations of human culture in digital, geographic space; 
 
-2. **Compare and contrast different forms of reading** — Analyze the relationships between human reading, non-human (computational) reading, and hybrid forms that combine both.
+2. Gain important data literacy skills, such as creating and manipulating data as well as data management strategies, including ones assisted by machine intelligence;
 
-3. **Articulate computational thinking** — Develop an understanding of how computational approaches enable new ways of thinking about texts and problems, recognizing questions of bias and scale.
+3. Learn to create, and critique, different kinds of map-based visualization;
 
-4. **Integrate visuals into analytical writing** — Develop skills in visual communication, using visualizations critically and with clarity to support written arguments.
+4. Compare community-based, open data initiatives with commercial, proprietary ones, reflecting on ethics, access and global data gaps; 
 
-5. **Practice effective communication in multiple formats** — Develop multimodal communication skills through written responses, web-based publishing, synchronous discussions.
+5. Acquire strategies for integrating data and mapping into their own writing and research; 
 
-6. **Debate possible futures of reading** — Engage in informed discussion about how technology might shape the future of reading, interpretation, and knowledge-making.
+6. Participate collaboratively in project-based research; 
+
+7. Practice effective communication skills in a written research blog and in multi-modal spatial storytelling;
+
+8. Explore the ways that location-based technologies are rapidly evolving around them and both the creative possibilities and ethical concerns they raise. 
 
 ---
 
@@ -30,38 +34,10 @@ By the end of this course, students will:
 
 The course outcomes map to the following NYUAD Core Program Learning Outcomes:
 
-### 1. Critical Inquiry and Analysis
-Students will critically examine contemporary topics through:
-- Qualitative analysis (close reading, interpretation)
-- Quantitative methods (computational analysis, data visualization)  
-- Contextual reasoning (historical, social, cultural contexts)
-- Creative approaches (experimentation, novel applications of tools)
+1.  Critically examine historical and contemporary topics of global significance, which includes formulating clear, precise questions and arriving at well-reasoned conclusions using a. qualitative, b. quantitative, c. contextual, and d. creative modes of reasoning;  (CLO 1, 2, 3, 7)
 
-**Relevant Course Outcomes:** TBA
+2.  Communicate effectively for various audiences and purposes, including participation in public settings; (CLO 2, 3, 5, 7)
 
-### 2. Communication and Expression
-Students will communicate effectively for various audiences through:
-- Public web-based writing
-- Participation in synchronous discussions
-- Recorded tutorials and multimedia formats
-- Academic and non-academic writing styles
+3.  Demonstrate self-understanding and intercultural competency; (CLO 4, 6) 
 
-**Relevant Course Outcomes:** TBA
-
-### 3. Self-Understanding and Intercultural Competency
-Students will demonstrate awareness of:
-- Their own assumptions about reading and interpretation
-- Diverse perspectives on technology and data
-- Global disparities in cultural representation
-
-**Relevant Course Outcomes:** TBA
-
-### 4. Conceptual and Ethical Complexity
-Students will identify and reflect critically on:
-- Ethical implications of computational analysis
-- Limitations and possibilities of algorithms
-- Power dynamics in data collection and interpretation
-
-**Relevant Course Outcomes:** TBA
-
-
+4.  Identify and reflect critically on conceptual and ethical complexity. (CLO 4, 8) 
