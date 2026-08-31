@@ -8,31 +8,20 @@ layout: single
   <h1 style="color: white; margin: 0; font-size: 2.5em; font-weight: 300; letter-spacing: 2px;">Reading Like a Computer</h1>
 </div>
 
+## Overview 
+
+The class will require you to be hands on about your learning. There will be lectures, discussions as well as guided exercises. In discussion and writing you will have the opportunity to share critical ideas and opinions about the material. 
+
+Over the semester we will try out different digital environments and experiment with common practices in digital culture–from the easy to the less easy–to explore spatial data and its relationship to society and the human record. In so doing, we will be experimenting with different forms of data creation, manipulation, visualization and storytelling.
+
+Some baseline things we will do in the course include: building a site to host your work, working with computational notebooks, discussing the various materials of the course, and engaging with data and technology and writing about it critically.
+
+
 ## Course Learning Outcomes
 
-By the end of this course, students will:
+The Fall 2026 version of the course is offered as a Data and Discovery course in NYUAD's Core Curriculum. 
 
-1. Explore representations of human culture in digital, geographic space; 
-
-2. Gain important data literacy skills, such as creating and manipulating data as well as data management strategies, including ones assisted by machine intelligence;
-
-3. Learn to create, and critique, different kinds of map-based visualization;
-
-4. Compare community-based, open data initiatives with commercial, proprietary ones, reflecting on ethics, access and global data gaps; 
-
-5. Acquire strategies for integrating data and mapping into their own writing and research; 
-
-6. Participate collaboratively in project-based research; 
-
-7. Practice effective communication skills in a written research blog and in multi-modal spatial storytelling;
-
-8. Explore the ways that location-based technologies are rapidly evolving around them and both the creative possibilities and ethical concerns they raise. 
-
----
-
-## Alignment with NYUAD Core Program Learning Outcomes
-
-The course outcomes map to the following NYUAD Core Program Learning Outcomes:
+The Core Curriculum Program Learning Outcomes are to 
 
 1.  Critically examine historical and contemporary topics of global significance, which includes formulating clear, precise questions and arriving at well-reasoned conclusions using a. qualitative, b. quantitative, c. contextual, and d. creative modes of reasoning;  (CLO 1, 2, 3, 7)
 
@@ -41,3 +30,18 @@ The course outcomes map to the following NYUAD Core Program Learning Outcomes:
 3.  Demonstrate self-understanding and intercultural competency; (CLO 4, 6) 
 
 4.  Identify and reflect critically on conceptual and ethical complexity. (CLO 4, 8) 
+
+
+Our Course Learning Outcomes (CLOs) are listed below. They map onto to the Core Program Learning Outcomes (PLOs) as indicated in the table. 
+
+| DHS | CLO | Core PLO |
+| :--- | :--- | :--- | 
+| 1 | Explore representations of human culture in digital, geographic space | 1 | 
+| 2 | Gain important data literacy skills, such as creating and manipulating data as well as data management strategies, including ones assisted by machine intelligence | 1, 2 | 
+| 3 | Compare community-based, open data initiatives with commercial, proprietary ones, reflecting on ethics, access and global data gaps | 1, 2 | 
+| 4 | Acquire strategies for integrating data and mapping into their own writing and research | 3 |
+| 5 | Participate collaboratively in project-based research | 2 |
+| 6 | Practice effective communication skills in a written research blog and in multi-modal spatial storytelling | 3 |
+| 7 | Explore the ways that location-based technologies are rapidly evolving around them and both the creative possibilities and ethical concerns they raise | 1, 2 |
+
+
