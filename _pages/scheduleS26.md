@@ -42,7 +42,7 @@ For this course you will need to make some accounts and download some software. 
 
 In the schedule below, the first column `date` indicates the meeting date of the class. We always meet 1120am-1230pm in the classroom. The second column `preparation` indicates what you should have completed in preparation for the course. The third column `activity` gives some indication of what we will be covering in class in addition to general discussion.  
 
-## Part 1: ** **
+## Part 1: 
 
 ### Week 1 (1, 3 September) Introduction to the Course
 
@@ -51,7 +51,7 @@ In the schedule below, the first column `date` indicates the meeting date of the
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 1 Sept | none | <br> -Introduction to course, expectations, syllabus <br> -Introducing ourselves <br> -[course site](https://djwrisley.github.io/DHS) | 
-| 3 Sept | <br> -Digital Mapping (Wilson, in drive) <br> -["How Crowdsourcing and Smartphones are Redefining Spatial Data"](https://www.youtube.com/watch?v=eKwS5MrMopg) <br> -["You're Leaking your location"](https://www.youtube.com/watch?v=A9DPDE0FZeQ) <br> -[Mercator vs True Size](https://brilliantmaps.com/mercator-vs-true-size/) <br> -["Do Maps Lie?"](https://www.youtube.com/watch?v=G0_MBrJnRq0) <br> -[The True Size of...](https://thetruesize.com)| <br> -Discussion of genearl course issues <br> -[Introduction to static sites](https://djwrisley.github.io/RLAC/blog/introduction-to-static-sites/) | 
+| 3 Sept | <br> -Digital Mapping (Wilson, in drive) <br> -["How Crowdsourcing and Smartphones are Redefining Spatial Data"](https://www.youtube.com/watch?v=eKwS5MrMopg) <br> -["You're Leaking your location"](https://www.youtube.com/watch?v=A9DPDE0FZeQ) <br> -[Mercator vs True Size](https://brilliantmaps.com/mercator-vs-true-size/)  <br> -[The True Size of...](https://thetruesize.com) <br> -["Do Maps Lie?"](https://www.youtube.com/watch?v=G0_MBrJnRq0) | <br> -Discussion of readings & general course issues <br> -[Introduction to static sites](https://djwrisley.github.io/DHS/blog/introduction-to-static-sites/) | 
 
 
 ### Week 2 (8, 10 September) Exploring Spatial Data and Spatial Data Practices 
@@ -60,8 +60,8 @@ In the schedule below, the first column `date` indicates the meeting date of the
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 8 Sept | <br> -["The Geospatial Revolution, episode 5"](https://geospatialrevolution.wpsu.org/) (You can watch the other 4--they are dated) <br> -["Map Power and Map Methodologies for Social Justice"](https://www.jstor.org/stable/43773699) (Krupar) | <br> -Highlights of Episode 1-4 of the PSU series <br> -Discussion of Reading <br> -[Gentle Introduction to Static Sites](https://djwrisley.github.io/RLAC/blog/introduction-to-static-sites/) |  
-| 10 Sept | <br> -[What is a static site?](https://kinsta.com/blog/what-is-a-static-website/) <br> -[Static Sites](https://lib-static.github.io/concepts/static-web/)  <br> -[Wikle and Williamson, "Static Web Methodology as a Sustainable Approach to Digital Humanities Projects"](https://journal.code4lib.org/articles/18372) <br> -Download [Github Desktop](https://desktop.github.com/download/) <br> -make a [Github account](https://github.com/)| <br> -[Setting Up a Site for Coursework](https://djwrisley.github.io/RLAC/blog/creating-a-static-siteS26/) | 
+| 8 Sept | <br> -Watch ["The Geospatial Revolution, episode 5"](https://geospatialrevolution.wpsu.org/) (You can watch the other 4--they are dated) <br> -["Map Power and Map Methodologies for Social Justice"](https://www.jstor.org/stable/43773699) (Krupar) | <br> -Highlights of Episode 1-4 of the PSU series <br> -Discussion of Reading <br> -[Gentle Introduction to Static Sites](https://djwrisley.github.io/RLAC/blog/introduction-to-static-sites/) |  
+| 10 Sept | <br> -[What is a static site?](https://kinsta.com/blog/what-is-a-static-website/) <br> -[Static Sites](https://lib-static.github.io/concepts/static-web/) <br> -Download [Github Desktop](https://desktop.github.com/download/) <br> -make a [Github account](https://github.com/) <br> -[What is Markdown?](https://www.markdownguide.org/) |  <br> -Summarizing [Wikle and Williamson, "Static Web Methodology as a Sustainable Approach to Digital Humanities Projects"](https://journal.code4lib.org/articles/18372) <br> -[Setting Up a Site for Coursework](https://djwrisley.github.io/RLAC/blog/creating-a-static-siteS26/) <br> -[A "cheatsheet" for Markdown](https://www.markdownguide.org/cheat-sheet/) | 
 
 
 **First Assignment Due: 21 September, 11:59pm** Building a Map of Chosen Features for the Country of Your Choice. Full Instructions [here](https://djwrisley.github.io/RLAC/blog/assignment-1-corpus-analysisS26/).
@@ -133,7 +133,7 @@ This week will do a wrap up of the first half of the semester and brainstorm pos
 
 > FALL BREAK -- keep calm and have a break!
 
-## Part 2: 
+## Part 2 
 
 ### Week 8 (27, 29 October)
 
