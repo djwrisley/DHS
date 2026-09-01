@@ -61,6 +61,8 @@ In the schedule below, the first column `date` indicates the meeting date of the
 **First Assignment Due: 24 September, 11:59pm** Building a Map of Chosen Features for the Country of Your Choice. Full Instructions [here](https://djwrisley.github.io/DHS/blog/XXX/).
 {: .notice}
 
+<iframe style="width: 100%; height: 300px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/untitled-map_662327?scaleControl=false&miniMapControl=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/untitled-map_662327?scaleControl=false&miniMapControl=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
+
 **Extra Credit: 25 September** NYU New York Data Services classes "Introduction to R". Up to 2 points on one assignment. Register [here](https://nyu.libcal.com/event/17490476). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/).
 {: .notice}
 
