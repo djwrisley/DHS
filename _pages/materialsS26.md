@@ -15,7 +15,13 @@ The course learning materials are composed of interdisciplinary writing from the
 
 There will be installation of some software and/or signups in online platforms in order to complete the exercises for the hands-on labs. Students will be provided with tutorials for such installation. 
 
-We will explore OpenStreetMap, for which an [account](https://www.openstreetmap.org/user/new) is useful. We will make use of [Visual Studio Code](https://code.visualstudio.com/download), as well as a number of web-based tools. You will also be assigned access to [Posit Cloud](https://posit.cloud/) for computational notebooks within a few weeks.  If you are familiar with [RStudio](https://posit.co/downloads/) and already have it downloaded, you can download the notebooks and use them on your own machine. For beginners, I recommend the cloud based version.  These resources are all at no cost to you. 
+For example  
+
+- we will explore OpenStreetMap, for which an [account](https://www.openstreetmap.org/user/new) is useful 
+- we will make use of [Visual Studio Code](https://code.visualstudio.com/download).
+- you will also be assigned access to [Posit Cloud](https://posit.cloud/) for computational notebooks within a few weeks.  If you are familiar with [RStudio](https://posit.co/downloads/) and already have it downloaded, you can download the notebooks and use them on your own machine. For beginners, I recommend the cloud based version. 
+- we will work with an older standalone software you can install on your own laptop, QGIS.  
+- These resources are all at no cost to you. 
 
 
 ## Optional Background reading in Digital Humanities:
