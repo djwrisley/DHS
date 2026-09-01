@@ -36,9 +36,9 @@ In the schedule below, the first column `date` indicates the meeting date of the
 
 ## Part 1: 
 
-### Week 1 (1, 3 September) Introduction to the Course
+### Week 1 (1, 3 September)
 
-**Topic:** In this first week, we will take a look at the larger picture of this course, and moving beyond the contemporary idea of way-finding, we will explore the "geospatial," the way it can be studied and some of the critical questions we can ask of geospatial data using uncommon sources, those from the humanities.  
+**Topic:** Introduction to the Course. In this first week, we will take a look at the larger picture of this course, and moving beyond the contemporary idea of way-finding, we will explore the "geospatial," the way it can be studied and some of the critical questions we can ask of geospatial data using uncommon sources, those from the humanities.  
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
@@ -48,9 +48,9 @@ In the schedule below, the first column `date` indicates the meeting date of the
 **Extra Credit: 17 September** NYU New York Data Services classes "Introduction to arcGIS Online". Up to 2 points on one assignment. Register [here](https://nyu.libcal.com/event/17490222). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/). NB: You must request an arcGIS online account in advance of this workshop! 
 {: .notice}
 
-### Week 2 (8, 10 September) Exploring Spatial Data and Spatial Data Practices 
+### Week 2 (8, 10 September)  
 
-**Topic:**  In this week, we will explore what forms spatial data take, where you can go and find data about places and the kind of work "GIS" (geographic information systems) experts do. We will explore models (open and proprietary) for such data and will begin to visualize some datasets, particularly those coming from free, open spatial data that we can download. We will also work on setting up an individual site so that we can host content (including live interactive maps) for the course. 
+**Topic:**  Exploring Spatial Data and Spatial Data Practices. In this week, we will explore what forms spatial data take, where you can go and find data about places and the kind of work "GIS" (geographic information systems) experts do. We will explore models (open and proprietary) for such data and will begin to visualize some datasets, particularly those coming from free, open spatial data that we can download. We will also work on setting up an individual site so that we can host content (including live interactive maps) for the course. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
@@ -63,9 +63,9 @@ In the schedule below, the first column `date` indicates the meeting date of the
 **Extra Credit: 25 September** NYU New York Data Services classes "Introduction to R". Up to 2 points on one assignment. Register [here](https://nyu.libcal.com/event/17490476). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/).
 {: .notice}
 
-### Week 3 (15, 17 September) From Official Cartography to "Neogeography" and Critical Data Approaches  
+### Week 3 (15, 17 September)   
 
-**Topic:** In this week, we will take a look at state-centered cartographic practices of the past, how open source map data came into being and reflect on how such practices have been transformed. Moreover, we will look at how, within web mapping frameworks we can create our own spatial data to tell visual stories about any topic of interest.  We introduce the notion of critical data studies this week. 
+**Topic:** From Official Cartography to "Neogeography" and Critical Data Approaches. In this week, we will take a look at state-centered cartographic practices of the past, how open source map data came into being and reflect on how such practices have been transformed. Moreover, we will look at how, within web mapping frameworks we can create our own spatial data to tell visual stories about any topic of interest.  We introduce the notion of critical data studies this week. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
@@ -73,9 +73,9 @@ In the schedule below, the first column `date` indicates the meeting date of the
 | 17 Sept | <br> -[How reliable is the data in OSM?](XXX) <br> -Make an account at [posit.cloud](https://posit.cloud/) <br> -Skim-watch [RStudio for Beginners with PositCloud and chatGPT](https://www.youtube.com/watch?v=YUGnQQ_hyNI&t=3721s) <br> -["Working in a Programming Language" in Humanities Data Essentials in R](https://hdf.benschmidt.org/R/) | <br> -Making sure our GitHub pages are working <br> -Notebook: "Mapping Specific Features in OSM data of your choice" (posit.cloud) | 
 
 
-### Week 4 (22, 24 September) The "Spatial Humanities" 
+### Week 4 (22, 24 September)  
 
-**Topic:** This week we will look at a variety of different projects from the humanities and humanities-adjacent fields that use spatial data to visualize phenomena, to tell stories and make arguments. Projects will come from a variety of disciplines. 
+**Topic:** The "Spatial Humanities". This week we will look at a variety of different projects from the humanities and humanities-adjacent fields that use spatial data to visualize phenomena, to tell stories and make arguments. Projects will come from a variety of disciplines. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
@@ -85,9 +85,9 @@ In the schedule below, the first column `date` indicates the meeting date of the
 **Extra Credit: 7 October** NYU New York Data Services classes "Breaking Up with Google Docs," an introduction to privacy-centered Joplin and Obsidian. Register [here](https://nyu.libcal.com/event/17428137). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/).
 {: .notice}
 
-### Week 5 (29 September, 1 October)  Telling Spatial Narratives and "Volunteered Geographic Data" (VGI)
+### Week 5 (29 September, 1 October)  
 
-**Topic:** In this week we continue our exploration of the world of humanities and humanities-adjacent research in the spatial humanities with more student presentations and discussions of the "nuts and bolts" of these projects. We turn to a "road trip" novel created in 2018 by an NYUNY graduate and an AI-powered car.  
+**Topic:** Telling Spatial Narratives and "Volunteered Geographic Data" (VGI). In this week we continue our exploration of the world of humanities and humanities-adjacent research in the spatial humanities with more student presentations and discussions of the "nuts and bolts" of these projects. We turn to a "road trip" novel created in 2018 by an NYUNY graduate and an AI-powered car.  
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
@@ -100,9 +100,9 @@ In the schedule below, the first column `date` indicates the meeting date of the
 **In-class Written Exam: 15 October**. 
 {: .notice}
 
-### Week 6 (6, 8 October) Spatializing Texts: Human and Machine   
+### Week 6 (6, 8 October)    
 
-**Topic:** 
+**Topic:** Spatializing Texts: Human and Machine.
 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
 
@@ -112,9 +112,9 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 | 8 Oct | -Before Web Mapping, there was static software | -Learning some basics about QGIS -Creating a Static Map in QGIS | 
 
 
-### Week 7 (13, 15 October) Midterm wrap up 
+### Week 7 (13, 15 October)  
 
-**Topic:**  Wrap-Up and In-class handwritten assessment  
+**Topic:**  Midterm Wrap-Up and In-class handwritten assessment  
 
 This week will do a wrap up of the first half of the semester and brainstorm possible topics for the in-class handwritten assessment. I will bring paper and an exam sheet. You will hand write the exam in your choice of pen or pencil. 
 
@@ -127,9 +127,9 @@ This week will do a wrap up of the first half of the semester and brainstorm pos
 
 ## Part 2 
 
-### Week 8 (27, 29 October) The Past of Maps, the Future of Maps 
+### Week 8 (27, 29 October)  
 
-**Topic:** 
+**Topic:** The Past of Maps, the Future of Maps
 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
 
@@ -139,9 +139,9 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 | 29 Oct | -What is Data Modeling in the Humanities? |  |
 
 
-### Week 9 (3, 5 November) Getting Help to Create Structured Data from Complex Sources: LLMs
+### Week 9 (3, 5 November) 
 
-**Topic:** 
+**Topic:** Getting Help to Create Structured Data from Complex Sources: LLMs
 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
 
@@ -156,9 +156,9 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 **Third Assignment Due: 20 November, 11:59pm** Critical Data Manipulation with an LLM. Full Instructions [here](https://djwrisley.github.io/DSH/blog/XXX).
 {: .notice}
 
-### Week 10 (10, 12 November) The Past of Paper Maps: Comparing Spatial Perspectives of Historical Cartography
+### Week 10 (10, 12 November) 
 
-**Topic:**  
+**Topic:**  The Past of Paper Maps: Comparing Spatial Perspectives of Historical Cartography
 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
 
@@ -167,16 +167,16 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 | 10 Nov | -What is QGIS? -What is Georeferencing?  |  |
 | 12 Nov | -Georeferencing Soviet Cartography -Georeferencing World Cities |  |
 
-### Week 11 (17, 19 November) Independent work on Assignment 3 and Oral Exam Preparation
+### Week 11 (17, 19 November) 
 
 Instructor Away at a conference. Independent work on Assignment 3 and preparation for the Courses made up the following week for oral exams. 
 
 **Oral exams**. Oral exams will be held outside of regular class hours the week of 23 November and the beginning of the next. 
 {: .notice}
 
-### Week 12 (24, 26 November) Interacting with the GeoSpatial: Changing Frontiers 
+### Week 12 (24, 26 November) 
 
-**Topic:**     
+**Topic:**  Interacting with the GeoSpatial: Changing Frontiers 
 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
 
@@ -188,9 +188,9 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 **Fourth Assignment Due: 11 December**. GeoAI for Vectorization. Prompt [here](). Rubric in the rubric tab. 
 {: .notice} 
 
-### Week 13 (1 December) New Frontiers for Geospatial 
+### Week 13 (1 December)  
 
-**Topic:** 
+**Topic:** New Frontiers for Geospatial
 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
 
@@ -200,18 +200,18 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 | 3 Dec | none | National Day Holiday! |
 
 
-### Week 14 (8, 10 December) GeoAI In Humanistic and Social Domains 
+### Week 14 (8, 10 December)  
 
-**Topic:** This week we will look at some of the newest ways that spatial data is being leveraged for  problem solving in domains such as urban planning, smart cities and geospatial intelligence, in addition to some of the critiques of such methods. 
+**Topic:** GeoAI In Humanistic and Social Domains. This week we will look at some of the newest ways that spatial data is being leveraged for  problem solving in domains such as urban planning, smart cities and geospatial intelligence, in addition to some of the critiques of such methods. 
 
 | :--- | :--- | :--- |
 | 8 Dec | ["What is Segmentation?"](https://segment-anything.metademolab.com/) ["What is AI Vectorizer"](https://terra-lab.ai/blog/ai-edit-complete-guide) ["More about AI Segmentation of Maps"](https://terra-lab.ai/blog/ai-segmentation-complete-guide) | -hands on with vectorizing aerial images |
 | 10 Dec |  -Risks of AI in geospatial | -Discussion | 
 
 
-### Week 15 (14 December) - Legislative Day
+### Week 15 (14 December)
 
-**Topic:** Semester wrap up.  
+**Topic:** Legislative Day. Semester wrap up.  
 
 | :--- | :--- | :--- |
 | 14 Dec | none | Semester Wrap up |
