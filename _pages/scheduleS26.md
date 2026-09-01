@@ -1,6 +1,7 @@
 ---
 title: Data and Human Space
 permalink: /schedule/
+classes: schedule-page
 toc: true
 toc_label: "Fall 2026 Schedule"
 toc_sticky: true

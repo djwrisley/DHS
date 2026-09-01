@@ -4,6 +4,22 @@
 @import "minimal-mistakes/skins/dirt";
 @import "minimal-mistakes";
 
+.schedule-page .page__hero--overlay {
+  .wrapper {
+    text-align: center;
+  }
+
+  .page__title {
+    font-size: calc(1.953em - 2px);
+  }
+}
+
+@media (min-width: 600px) {
+  .schedule-page .page__hero--overlay .page__title {
+    font-size: calc(2.441em - 2px);
+  }
+}
+
 @media (min-width: 900px) and (max-width: 1023px) {
   .page {
     float: inline-end;
