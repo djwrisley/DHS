@@ -1,5 +1,5 @@
 ---
-title: "Materials S25"
+title: "Materials S26"
 permalink: /materials/
 author_profile: false
 ---
@@ -8,15 +8,17 @@ author_profile: false
   <h1 style="color: white; margin: 0; font-size: 2.5em; font-weight: 300; letter-spacing: 2px;">Reading Like a Computer</h1>
 </div>
 
-There are **_required_** books in this course. It is an [e-book](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008285939). In addition to this ebook, the course site will have links to e-book excerpts or other open, online materials and tutorials of interest. 
+
+## Materials 
+
+The course learning materials are composed of interdisciplinary writing from the web, videos, digital projects in addition to traditional academic readings.  **There will be no books for purchase.**  Students will have access to ebook chapters available through NYU Libraries. 
 
 There will be installation of some software and/or signups in online platforms in order to complete the exercises for the hands-on labs. Students will be provided with tutorials for such installation. 
 
-**Required e-book:**
+We will explore OpenStreetMap, for which an [account](https://www.openstreetmap.org/user/new) is useful. We will make use of [Visual Studio Code](https://code.visualstudio.com/download), as well as a number of web-based tools. You will also be assigned access to [Posit Cloud](https://posit.cloud/) for computational notebooks within a few weeks.  If you are familiar with [RStudio](https://posit.co/downloads/) and already have it downloaded, you can download the notebooks and use them on your own machine. For beginners, I recommend the cloud based version.  These resources are all at no cost to you. 
 
-1. Drucker, [The Digital Humanities Coursebook](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008285939) (Routledge, 2021).
 
-**Optional Background reading:**
+## Optional Background reading in Digital Humanities:
 
 - Arnold/Tilton, [Distant Viewing: Computational Exploration of Digital Images](https://doi.org/10.7551/mitpress/14046.001.0001) (MIT, 2023).
 - Bavaj et al, Doing Spatial History (Routledge, 2021).
@@ -43,9 +45,11 @@ There will be installation of some software and/or signups in online platforms i
 - Travis, [Abstract Machine: Humanities GIS](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph004308007) (ESRI, 2015).
 - Wernimont/Losh, [Bodies of Information: Digital Humanities and Intersectional Feminism](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph007465972) (Minnesota, 2018). 
 
-A [reference guide](http://guides.nyu.edu/digitalhumanities) for Digital Arts and Humanities has been prepared by the NYUAD library. An (amateurish!) [Stream channel](https://stream.nyu.edu/channel/NYUAD%2BDH/188437763) exists with some tutorials specific to DAAH. 
 
-**Supplementary learning materials available on the web:**
+A [reference guide](http://guides.nyu.edu/digitalhumanities) for Digital Arts and Humanities has been prepared by the NYUAD library. 
+
+
+## Supplementary learning materials available on the web:
 
 - [The Programming Historian](https://programminghistorian.org/) 
 - [Dariah Campus](https://campus.dariah.eu/) 

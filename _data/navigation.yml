@@ -4,6 +4,9 @@ main:
   
   - title: "Outcomes"
     url: /outcomes/
+
+  - title: "Materials"
+    url: /materials/
   
   - title: "Schedule"
     url: /schedule/

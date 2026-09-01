@@ -15,12 +15,6 @@ toc_icon: "calendar"
 
 This schedule is organized by week. Reading and assignment details may continue to be posted on the course site as we progress through the semester. All material is subject to change at the instructor's discretion based on our progress in the course. If there are changes which impact due dates or the timeline of work, they will be clearly stated here and in class. 
 
-### Materials: 
-
-The course learning materials are composed of interdisciplinary writing from the web, videos, digital projects in addition to traditional academic readings.  **There will be no books for purchase.**  Students will have access to ebook chapters available through NYU Libraries. 
-
-For this course you will need to make some accounts and download some software. We will explore OpenStreetMap, for which an [account](https://www.openstreetmap.org/user/new) is useful. We will make use of [Visual Studio Code](https://code.visualstudio.com/download), as well as a number of web-based tools. You will also be assigned access to [Posit Cloud](https://posit.cloud/) for computational notebooks within a few weeks.  If you are familiar with [RStudio](https://posit.co/downloads/) and already have it downloaded, you can download the notebooks and use them on your own machine. For beginners, I recommend the cloud based version.  These resources are all at no cost to you. 
-
 ---
 
 ## Important Dates for Fall 2026 from [NYUAD Registrar](https://nyuad.nyu.edu/en/about/administration-and-governance/undergraduate-academic-calendar.html)
