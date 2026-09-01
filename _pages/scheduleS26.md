@@ -63,25 +63,24 @@ In the schedule below, the first column `date` indicates the meeting date of the
 | 8 Sept | <br> -Watch ["The Geospatial Revolution, episode 5"](https://geospatialrevolution.wpsu.org/) (You can watch the other 4--they are dated) <br> -["Map Power and Map Methodologies for Social Justice"](https://www.jstor.org/stable/43773699) (Krupar) | <br> -Highlights of Episode 1-4 of the PSU series <br> -Discussion of Reading <br> -[Gentle Introduction to Static Sites](https://djwrisley.github.io/RLAC/blog/introduction-to-static-sites/) |  
 | 10 Sept | <br> -[What is a static site?](https://kinsta.com/blog/what-is-a-static-website/) <br> -[Static Sites](https://lib-static.github.io/concepts/static-web/) <br> -Download [Github Desktop](https://desktop.github.com/download/) <br> -make a [Github account](https://github.com/) <br> -[What is Markdown?](https://www.markdownguide.org/) |  <br> -Summarizing [Wikle and Williamson, "Static Web Methodology as a Sustainable Approach to Digital Humanities Projects"](https://journal.code4lib.org/articles/18372) <br> -[Setting Up a Site for Coursework](https://djwrisley.github.io/RLAC/blog/creating-a-static-siteS26/) <br> -[A "cheatsheet" for Markdown](https://www.markdownguide.org/cheat-sheet/) | 
 
-
-**First Assignment Due: 21 September, 11:59pm** Building a Map of Chosen Features for the Country of Your Choice. Full Instructions [here](https://djwrisley.github.io/RLAC/blog/assignment-1-corpus-analysisS26/).
+**First Assignment Due: 24 September, 11:59pm** Building a Map of Chosen Features for the Country of Your Choice. Full Instructions [here](https://djwrisley.github.io/DHS/blog/XXX/).
 {: .notice}
 
 ### Week 3 (15, 17 September) From Cartography as Official Practice to "Neogeography" 
 
-**Topic:** In this week, we will take a look at state-centered cartographic practices of the past and reflect on how such practices have been transformed, changing questions of sovereignty. Moreover, we will look at how, within web mapping frameworks we can create our own spatial data to tell visual stories about any topic of interest.  
+**Topic:** In this week, we will take a look at state-centered cartographic practices of the past, how open source map data came into being and reflect on how such practices have been transformed. Moreover, we will look at how, within web mapping frameworks we can create our own spatial data to tell visual stories about any topic of interest.  
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 15 Sept |  |  | 
-| 17 Sept | <br> -Make an account at [posit.cloud](https://posit.cloud/) <br> -Skim-watch [RStudio for Beginners with PositCloud and chatGPT](https://www.youtube.com/watch?v=YUGnQQ_hyNI&t=3721s) <br> -[Humanities Data Essentials in R](https://hdf.benschmidt.org/R/) check out the section "Working in a Programming Language" | <br> -Discussion <br> -Making sure our GitHub pages are working | 
+| 15 Sept |  <br> -[Early GIS in Canada](https://www.youtube.com/watch?v=3VLGvWEuZxI) <br> -["Evolution of GIS"](https://esrimm.com/wp-content/uploads/2024/09/wigis-history-of-gis.pdf) <br> -[The Billion Dollar Code - trailer](https://www.youtube.com/watch?v=iDvPvqImb-4) <br> -[GeoNames](https://en.wikipedia.org/wiki/GeoNames) <br> -[How OpenStreetMap Got Started](https://www.youtube.com/watch?v=DE2KvtvFOU4) | <br> -Exploring GeoNames and OpenStreetMap | 
+| 17 Sept | <br> -[How reliable is the data in OSM?](XXX) <br> -Make an account at [posit.cloud](https://posit.cloud/) <br> -Skim-watch [RStudio for Beginners with PositCloud and chatGPT](https://www.youtube.com/watch?v=YUGnQQ_hyNI&t=3721s) <br> -["Working in a Programming Language" in Humanities Data Essentials in R](https://hdf.benschmidt.org/R/) | <br> -Making sure our GitHub pages are working <br> -Notebook: "Mapping Specific Features in OSM data of your choice" | 
 
 **Extra Credit: 29 September** NYU New York Libraries classes "Network Analysis for the Humanities," an introduction to Gephi. Register [here](https://nyu.libcal.com/event/17434267) 
 {: .notice}
 
-### Week 4 (22, 24 September) Spatial Humanities 
+### Week 4 (22, 24 September) The "Spatial Humanities" 
 
-**Topic:** This week we will look at a variety of different projects from the humanities and social sciences that use spatial data to visualize stories and make arguments, even arguments as we saw previously in support of social justic issues. 
+**Topic:** This week we will look at a variety of different projects from the humanities and humanities-adjacent fields that use spatial data to visualize phenomena, to tell stories and make arguments. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
@@ -93,16 +92,16 @@ In the schedule below, the first column `date` indicates the meeting date of the
 
 ### Week 5 (29 September, 1 October) "Volunteered Geographic Data" (VGI) and Telling Spatial Narratives
 
-**Topic:** 
+**Topic:** We will explore ... 
 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 29 Sept |  |  |
-| 1 Oct |  |  | 
+| 29 Sept | What is VGI? |  |
+| 1 Oct | -1, the Road |  | 
 
-**Second Assignment Due: 12 October, 11:59pm** XXXXX Full Instructions [here](https://djwrisley.github.io/RLAC/blog/assignment-1-corpus-analysisS26/).
+**Second Assignment Due: 12 October, 11:59pm** XXXXX Full Instructions [here](https://djwrisley.github.io/DHS/blog/XXX/).
 {: .notice}
 
 **In-class Written Exam: 15 October**. 
