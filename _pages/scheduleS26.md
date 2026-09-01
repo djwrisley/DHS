@@ -46,7 +46,7 @@ In the schedule below, the first column `date` indicates the meeting date of the
 | 1 Sept | none | <br> -Introduction to course, expectations, syllabus <br> -Introducing ourselves <br> -[course site](https://djwrisley.github.io/DHS) | 
 | 3 Sept | <br> -Digital Mapping (Wilson, in drive) <br> -["How Crowdsourcing and Smartphones are Redefining Spatial Data"](https://www.youtube.com/watch?v=eKwS5MrMopg) <br> -["You're Leaking your location"](https://www.youtube.com/watch?v=A9DPDE0FZeQ) <br> -[Mercator vs True Size](https://brilliantmaps.com/mercator-vs-true-size/)  <br> -[The True Size of...](https://thetruesize.com) <br> -["Do Maps Lie?"](https://www.youtube.com/watch?v=G0_MBrJnRq0) | <br> -Discussion of readings & general course issues <br> -[Introduction to static sites](https://djwrisley.github.io/DHS/blog/introduction-to-static-sites/) | 
 
-**Extra Credit: 17 September** NYU New York Data Services classes "Introduction to arcGIS Online". Up to 2 points on one assignment. Register [here](https://nyu.libcal.com/event/17490222). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/). NB: You must request an arcGIS online account in advance of this workshop! 
+**Extra Credit: 17 September** NYU New York Data Services classes "Introduction to arcGIS Online". Up to 2 points on one assignment. Register [here](https://nyu.libcal.com/event/17490222). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/). NB: You must request an arcGIS online account in advance of this workshop! Instructions on how to do so are included in the registration page. 
 {: .notice}
 
 ### Week 2 (8, 10 September)  
@@ -134,7 +134,7 @@ This week will do a wrap up of the first half of the semester and brainstorm pos
 
 **Topic:** The Past of Maps, the Future of Maps
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
+In this week we will take a step back to look at the development of mapping from paper-based analog practices to the latest digital trends. We will discuss briefly some of the ways that geospatial tech is moving us being just navigating while driving or walking.  
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
@@ -146,7 +146,7 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 
 **Topic:** Getting Help to Create Structured Data from Complex Sources: LLMs
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
+This week we will return to the idea of modeling data, that is, giving a shape to it based on a source. We will think about ways that complex analog sources, once digitized, can be modeled as spatial data sets. This process will allow us to allow them to visualized and analyzed. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
@@ -163,7 +163,7 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 
 **Topic:**  The Past of Paper Maps: Comparing Spatial Perspectives of Historical Cartography
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
+Long before maps were made digital they were paper-based objects. We will explore how, once digitized, analog maps gain currency in the digital world, how we can study them for the perspectives of their makers as well as derive data from them for use in computational systems. Highlighted this week will be Soviet cartography. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
