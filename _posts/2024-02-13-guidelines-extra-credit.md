@@ -32,5 +32,3 @@ Remember to be respectful of people attending remote events. Do not record the e
 
 
 Guidelines updated: 1 September 2026
-
- [ˆ1]: NB You should complete all the points above to receive the extra points.

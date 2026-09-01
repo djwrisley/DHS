@@ -53,6 +53,8 @@ In the schedule below, the first column `date` indicates the meeting date of the
 | 1 Sept | none | <br> -Introduction to course, expectations, syllabus <br> -Introducing ourselves <br> -[course site](https://djwrisley.github.io/DHS) | 
 | 3 Sept | <br> -Digital Mapping (Wilson, in drive) <br> -["How Crowdsourcing and Smartphones are Redefining Spatial Data"](https://www.youtube.com/watch?v=eKwS5MrMopg) <br> -["You're Leaking your location"](https://www.youtube.com/watch?v=A9DPDE0FZeQ) <br> -[Mercator vs True Size](https://brilliantmaps.com/mercator-vs-true-size/)  <br> -[The True Size of...](https://thetruesize.com) <br> -["Do Maps Lie?"](https://www.youtube.com/watch?v=G0_MBrJnRq0) | <br> -Discussion of readings & general course issues <br> -[Introduction to static sites](https://djwrisley.github.io/DHS/blog/introduction-to-static-sites/) | 
 
+**Extra Credit: 17 September** NYU New York Data Services classes "Introduction to arcGIS Online". Up to 2 points on one assignment. Register [here](https://nyu.libcal.com/event/17490222). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/). NB: You must request an arcGIS online account in advance of this workshop! 
+{: .notice}
 
 ### Week 2 (8, 10 September) Exploring Spatial Data and Spatial Data Practices 
 
@@ -66,6 +68,9 @@ In the schedule below, the first column `date` indicates the meeting date of the
 **First Assignment Due: 24 September, 11:59pm** Building a Map of Chosen Features for the Country of Your Choice. Full Instructions [here](https://djwrisley.github.io/DHS/blog/XXX/).
 {: .notice}
 
+**Extra Credit: 25 September** NYU New York Data Services classes "Introduction to R". Up to 2 points on one assignment. Register [here](https://nyu.libcal.com/event/17490476). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/).
+{: .notice}
+
 ### Week 3 (15, 17 September) From Cartography as Official Practice to "Neogeography" 
 
 **Topic:** In this week, we will take a look at state-centered cartographic practices of the past, how open source map data came into being and reflect on how such practices have been transformed. Moreover, we will look at how, within web mapping frameworks we can create our own spatial data to tell visual stories about any topic of interest.  
@@ -73,10 +78,8 @@ In the schedule below, the first column `date` indicates the meeting date of the
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 15 Sept |  <br> -[Early GIS in Canada](https://www.youtube.com/watch?v=3VLGvWEuZxI) <br> -["Evolution of GIS"](https://esrimm.com/wp-content/uploads/2024/09/wigis-history-of-gis.pdf) <br> -[The Billion Dollar Code - trailer](https://www.youtube.com/watch?v=iDvPvqImb-4) <br> -[GeoNames](https://en.wikipedia.org/wiki/GeoNames) <br> -[How OpenStreetMap Got Started](https://www.youtube.com/watch?v=DE2KvtvFOU4) | <br> -Exploring GeoNames and OpenStreetMap | 
-| 17 Sept | <br> -[How reliable is the data in OSM?](XXX) <br> -Make an account at [posit.cloud](https://posit.cloud/) <br> -Skim-watch [RStudio for Beginners with PositCloud and chatGPT](https://www.youtube.com/watch?v=YUGnQQ_hyNI&t=3721s) <br> -["Working in a Programming Language" in Humanities Data Essentials in R](https://hdf.benschmidt.org/R/) | <br> -Making sure our GitHub pages are working <br> -Notebook: "Mapping Specific Features in OSM data of your choice" | 
+| 17 Sept | <br> -[How reliable is the data in OSM?](XXX) <br> -Make an account at [posit.cloud](https://posit.cloud/) <br> -Skim-watch [RStudio for Beginners with PositCloud and chatGPT](https://www.youtube.com/watch?v=YUGnQQ_hyNI&t=3721s) <br> -["Working in a Programming Language" in Humanities Data Essentials in R](https://hdf.benschmidt.org/R/) | <br> -Making sure our GitHub pages are working <br> -Notebook: "Mapping Specific Features in OSM data of your choice" (posit.cloud) | 
 
-**Extra Credit: 29 September** NYU New York Libraries classes "Network Analysis for the Humanities," an introduction to Gephi. Register [here](https://nyu.libcal.com/event/17434267) 
-{: .notice}
 
 ### Week 4 (22, 24 September) The "Spatial Humanities" 
 
@@ -85,23 +88,21 @@ In the schedule below, the first column `date` indicates the meeting date of the
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 22 Sept | none | Instructor away at a conference, no class |
-| 24 Sept | <br> -[What is Humanities Mapping?](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003327677-15/humanities-mapping-bill-pascoe) (Pascoe) <br> -[list of projects for our presentations](XXX) <br> -[Another course's list of projects](https://hh2025w.amason.sites.carleton.edu/labs/spatial-humanities-gis-mapping-101/) | <br> -explore how geospatial technologies can support humanities argument and storytelling <br> -discuss what spatial research does well <br> -in class student mini-presentations (in pairs or threes) | 
+| 24 Sept | <br> -[What is Humanities Mapping?](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003327677-15/humanities-mapping-bill-pascoe) (Pascoe) <br> -[list of projects for our presentations](XXX) <br> -[Another course's list of projects](https://hh2025w.amason.sites.carleton.edu/labs/spatial-humanities-gis-mapping-101/) | <br> -explore how geospatial technologies can support humanities argument and storytelling <br> -discuss what spatial research does well <br> -in class student mini-presentations (in pairs) | 
 
-**Extra Credit: 7 October** NYU New York Libraries classes "Breaking Up with Google Docs," an introduction to privacy-centered Joplin and Obsidian. Register [here](https://nyu.libcal.com/event/17428137) 
+**Extra Credit: 7 October** NYU New York Data Services classes "Breaking Up with Google Docs," an introduction to privacy-centered Joplin and Obsidian. Register [here](https://nyu.libcal.com/event/17428137). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/).
 {: .notice}
 
 ### Week 5 (29 September, 1 October) "Volunteered Geographic Data" (VGI) and Telling Spatial Narratives
 
-**Topic:** We will explore ... 
-
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+**Topic:** In this week we continue our exploration of the world of humanities and humanities-adjacent research in the spatial humanities with more student presentations and discussions of the "nuts and bolts" of these projects. We turn to a "road trip" novel created in 2018 by an NYUNY graduate and an AI-powered car.  
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 29 Sept | What is VGI? |  |
-| 1 Oct | -1, the Road |  | 
+| 29 Sept | -continuation of spatial humanities projects | <br> -in class student mini-presentations (in pairs) |
+| 1 Oct | -What is VGI? -1, the Road |  | 
 
-**Second Assignment Due: 12 October, 11:59pm** XXXXX Full Instructions [here](https://djwrisley.github.io/DHS/blog/XXX/).
+**Second Assignment Due: 12 October, 11:59pm** Comparing Human and Machine Mapping of an AI written Novel. Full Instructions [here](https://djwrisley.github.io/DHS/blog/XXX/).
 {: .notice}
 
 **In-class Written Exam: 15 October**. 
@@ -115,8 +116,8 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 6 Oct |  |  |
-| 8 Oct |  |  | 
+| 6 Oct | -What is Annotation? -Ways of Annotating -Interannotator Disagreement | -Introduction to Recogito -Notebook: "Human versus Machine " |
+| 8 Oct | -Before Web Mapping, there was static software | -Learning some basics about QGIS -Creating a Static Map in QGIS | 
 
 
 ### Week 7 (13, 15 October) Midterm wrap up 
@@ -127,8 +128,8 @@ This week will do a wrap up of the first half of the semester and brainstorm pos
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 13 Oct | -general review of course materials | brainstorming |
-| 15 Oct | -general review of course materials | in class written exam | 
+| 13 Oct | -general review of course materials -From Official, Static Pratice to "Neogeographical" Creativity | brainstorming |
+| 15 Oct | -general review of course materials | **in class written exam** | 
 
 > FALL BREAK -- keep calm and have a break!
 
@@ -142,7 +143,7 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 27 Oct |  | - introduction of the oral exam |
+| 27 Oct | -Introducing the second half of the semester -Spatializing analog sources -What is next for geospatial? | - introducing the final oral exam |
 | 29 Oct |  |  |
 
 
@@ -188,7 +189,7 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 24 Nov |  |  |
-| 26 Nov |  |  |
+| 26 Nov | -How is AI changing geospatial technologies  -What is GeoAI |  |
 
 **Oral exams**. Oral exams will be held outside of regular class hours the week of 23 November and the beginning of the next. 
 {: .notice}
@@ -204,7 +205,7 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 1 Dec |  |  |
+| 1 Dec |  | Critical hands-on with some AI GIS tools (Ask Maps, |
 | 3 Dec | none | National Day Holiday! |
 
 
@@ -213,11 +214,8 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 **Topic:** This week we will look at some of the newest ways that spatial data is being leveraged for  problem solving in domains such as urban planning, smart cities and geospatial intelligence, in addition to some of the critiques of such methods. 
 
 | :--- | :--- | :--- |
-| 8 Dec |  |  |
-| 10 Dec |  |  |
-
-https://terra-lab.ai/blog/ai-edit-complete-guide 
-https://terra-lab.ai/blog/ai-segmentation-complete-guide
+| 8 Dec | -What is humanitarian GIS? | -hands on with HOTOSM  |
+| 10 Dec |  ["What is Segmentation?"](https://segment-anything.metademolab.com/) ["What is AI Vectorizer"](https://terra-lab.ai/blog/ai-edit-complete-guide) ["More about AI Segmentation of Maps"](https://terra-lab.ai/blog/ai-segmentation-complete-guide) | -hands on with vectorizing aerial images |
 
 
 ### Week 15 (14 December) - Legislative Day
