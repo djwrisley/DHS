@@ -1,15 +1,13 @@
 ---
-title: Schedule
+title: Data and Human Space
 permalink: /schedule/
 toc: true
 toc_label: "Fall 2026 Schedule"
 toc_sticky: true
 toc_icon: "calendar"
+header:
+  overlay_color: "#57068C"
 ---
-
-<div style="background-color: #57068C; padding: 40px 20px; margin: 0 0 30px 0; text-align: center; border-radius: 0;">
-  <h1 style="color: white; margin: 0; font-size: 2.5em; font-weight: 300; letter-spacing: 2px;">Data and Human Space</h1>
-</div>
 
 ## Fall 2026 Course Schedule
 

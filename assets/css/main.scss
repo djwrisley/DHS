@@ -1,0 +1,29 @@
+---
+---
+
+@import "minimal-mistakes/skins/dirt";
+@import "minimal-mistakes";
+
+@media (min-width: 900px) and (max-width: 1023px) {
+  .page {
+    float: inline-end;
+    width: calc(100% - 200px);
+    padding-inline-end: 200px;
+  }
+
+  .sidebar__right {
+    position: absolute;
+    top: 0;
+    inset-inline-end: 0;
+    width: 200px;
+    margin-inline-end: -200px;
+    padding-inline-start: 1em;
+    z-index: 10;
+
+    &.sticky {
+      position: sticky;
+      top: 2em;
+      float: inline-end;
+    }
+  }
+}
