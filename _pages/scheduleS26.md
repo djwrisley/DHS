@@ -66,7 +66,7 @@ In the schedule below, the first column `date` indicates the meeting date of the
 
 ### Week 3 (15, 17 September)   
 
-**Topic:** From Official Cartography to "Neogeography" and Critical Data Approaches. In this week, we will take a look at state-centered cartographic practices of the past, how open source map data came into being and reflect on how such practices have been transformed. Moreover, we will look at how, within web mapping frameworks we can create our own spatial data to tell visual stories about any topic of interest.  We introduce the notion of critical data studies this week. 
+**Topic:** From Official Cartography to "Neogeography" and Critical Data Approaches. In this week, we will take a look at state-centered cartographic practices of the past, how open source map data came into being, how well it represents the globe, and how such data creation practices have been transformed. Moreover, we will look at how, within web mapping frameworks we can create our own spatial data to tell visual stories about any topic of interest.  We introduce the notion of critical data studies this week. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
