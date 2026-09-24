@@ -15,25 +15,27 @@ tags:
 
 ## Overview
 
-Assignment 1 invites you to download some data about a country you know something about and to filter that dataset such that you show some of its features of interest to you. This assignment builds on concepts and tools we've discussed in class and a "computational notebook" in posit.cloud. Not only will you create a map of the features, place it into your own site you created for the course, but you will be also asked to comment on the visualization you create using the readings from the course.
+Assignment 1 invites you to download some data about a country you know something about and to filter that dataset such that you show some of its features of interest to you. This assignment builds on concepts and tools we've discussed in class and a "computational notebook" in posit.cloud. Not only will you create a map of the features, place it into your own site you created for the course, but you will be also asked to comment on the visualization you create using the readings from the course. Specific emphasis may change from student to student, but good, general angles for the written synthesis include bias in the data and how a dataset and ontology shape human space.
 
 - **Type:** Individual  
 - **Length:** Approximately 1500 words (about an 8-minute read), plus maps
 - **Format:** This assignment will be completed in Markdown and posted on your individual Github pages site, including the interactive map.   
-- **Due Date:** 28 September 2026, 11:59pm
+- **Due Date:** 2 October 2026, 11:59pm
 
-## Three Main Elements
+## Six Main Elements
 
-This assignment has five core components. The first four components are described in detail in the notebook at posit.cloud:
+This assignment has six core components. The first four components are described in detail in the notebook at posit.cloud:
 
-1. **Downloading or querying data:** You will acquire data from an open site on the web (mainly GeoNames) about a place in the world of interest to you. 
-2. **Choosing the features of interest to you:**  You will use the country download from the GeoNames webservice to begin this assignment.
-3. **Filtering for these Features:** Use a combination of Rmd Notebooks to conduct exploratory data analysis (EDA) with your part of the world. You will compare up 3 feature classes from the GeoNames ontology. 
-4. **Using Pre-written Code to Generate Maps in Layers** Using the notebook you will generate a map in layers. 
-5. **Pushing the map to Github and embed it in your assignment**. 
-6. **Written Synthesis:** In your essay you will assess what data is available in GeoNames about your country of choice. Assemble your evidence, analysis, and visuals in a web-published essay in the form of a post that tells a coherent story about your findings. Make sure to relate what you have found to the Do Maps Lie video and the reading by Kitchin & Lauriault on Critical Data Studies (in Drive).
+| Element | Task | Instructions | Materials |
+| :--- | :--- | :--- | :--- |
+| 1. | **Downloading or querying data:** | You will acquire data from an open site on the web (GeoNames) about a place in the world of interest to you. | GeoNames |
+| 2. | **Choosing the features of interest to you:** | You will use the country download from the GeoNames webservice to begin this assignment. | GeoNames feature codes |
+| 3. | **Filtering for these Features:** | Use the Rmd Notebook to conduct exploratory data analysis (EDA) with your part of the world. You will compare up 3 feature classes from the GeoNames ontology. | posit.cloud |
+| 4. | **Using Pre-written Code to Generate Maps in Layers** | Using the notebook you will generate a map in layers. | posit.cloud |
+| 5. | **Pushing the map to Github and embedding it in your assignment**. | | VSCode, Github Desktop, Github pages |
+| 6. | **Written Synthesis:** | In your essay you will assess what data is available in GeoNames about your country of choice. Assemble your evidence, analysis, and visuals in a web-published essay in the form of a post that tells a coherent story about your findings. Make sure to relate what you have found to the Do Maps Lie video and the reading by Kitchin & Lauriault on Critical Data Studies (in Drive). | VSCode, Github Desktop, Github pages, readings | 
 
-## More detailed instructions
+## More detailed instructions for selected steps
 
 ### Step 1: **Downloading or querying data:**
 
@@ -41,11 +43,15 @@ Check out [GeoNames](https://www.geonames.org/) for your country manually to see
 
 ## Step 2: **Choosing the features of interest to you:**
 
-You need to pick between 3-5 feature [codes]((https://www.geonames.org/export/codes.html) to show for your geospatial visualization. It will be good to justify your choice (frequency, personal or research interests, etc). 
+You need to pick between 3-5 feature [codes]((https://www.geonames.org/export/codes.html) to show for your geospatial visualization. It will be good to justify your choice (frequency, personal or research interests, etc).  If you choose more than 3 codes, you will need to adjust the code slightly. 
 
-## Step 5: **Written Synthesis:**
+## Step 5:
 
-## Guiding Questions
+More specific instructions about how to put the map in Github Pages and insert it in your page can be found [here](https://djwrisley.github.io/DHS/Going-further-static-siteF26/). On this page you will see an example of an embedded map made in R.
+
+## Step 6: 
+
+### Guiding Questions for the Written Synthesis
 
 As you write, consider (but don't feel obligated to answer) all of these questions:
 
@@ -55,7 +61,7 @@ As you write, consider (but don't feel obligated to answer) all of these questio
 
 - **Methodological Questions:**  How might you say that GeoNames is a data assemblage? If you go to the [Team tab](https://www.geonames.org/team.html) does the country you chose have an ambassador? What can you tell about the provenance of the data in GeoNames for your country--try to do some web research? 
 
-- **Transferability:** How might you use this workflow in other courses, disciplines, or projects like a capstone?
+- **Transferability:** How might you use this workflow personally in other courses, disciplines, or projects like a personal research project like a capstone or a job?
 
 ## Assessment
 
@@ -63,7 +69,7 @@ Your work will be assessed according to the following criteria located [here]():
 
 ## Tips for Success
 
-**Use of AI for this assignment:** You should not use AI to analyze the GeoNames dataset for this assignment or to create the map. You should pick geographical and features of interest to you. You can use AI tools to clarify language or to brainstorm. You can also use AI to tweak the code if you want to be adventurous--although this is not a required part of the assignment. Do not use it to do web research on the data provenance question above. Please include an generative AI statement at the end of your assignment explaining how you use it.  
+**Use of AI for this assignment:** You should not use AI to analyze the GeoNames dataset for this assignment or to create the map. You should pick geographical and features of interest to you. You can use AI tools to clarify language or to brainstorm. You can also use AI to tweak the code if you want to be adventurous--although this is not a required part of the assignment. Do not use it to do web research on the data provenance question above. Please include an generative AI statement at the end of your assignment explaining how you have used it (if at all).  
 
 **Writing:** You can use tools like [Markdown Live Preview](https://markdownlivepreview.com/) to view what your page will look like or you can use the preview function in Visual Studio Code itself. The [Hemingway App](https://hemingwayapp.com/) is useful to refine your prose for clarity and legibility. 
 
