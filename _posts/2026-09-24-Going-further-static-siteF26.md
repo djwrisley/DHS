@@ -62,7 +62,29 @@ In Assignment 1, we use a notebook that creates a "standalone" map in html. We n
 1. Go to your assets folder and add a subfolder called `maps`. You can do that in VSCode. 
 2. Take the `html` you create at the end of the notebook and export it from posit.cloud. Export is found under the settings icon.
 3. Drag and drop that `html` file into the maps subfolder you created in assets. Commit these changes., 
-4. 
+4. Now we create an iframe.
+
+```
+<div style="width:100%; height:70vh;">
+  <iframe
+    src="maps/{nameofyourmap}.html"
+    style="width:100%; height:100%; border:0;"
+    loading="lazy">
+  </iframe>
+</div>
+```
+The `div` is a container for the map. 
+
+<div style="width:100%; height:70vh;">
+  <iframe
+    src="maps/LB_featuremap-2.html"
+    style="width:100%; height:100%; border:0;"
+    loading="lazy">
+  </iframe>
+</div>
+
+
+
 
 Good luck with your customization!
 
