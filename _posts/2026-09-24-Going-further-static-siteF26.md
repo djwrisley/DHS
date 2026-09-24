@@ -73,7 +73,8 @@ In Assignment 1, we use a notebook that creates a "standalone" map in html. We n
   </iframe>
 </div>
 ```
-The `div` is a container for the map with some parameters specifying how much space is alloted to the map in the theme. 100% means the full allocation of the containing element of the theme. Note the `src` path: since a post's own URL lives one folder deep (e.g. `/DHS/your-post-title/`), a relative path like `maps/{name}.html` would incorrectly resolve to `/DHS/your-post-title/maps/{name}.html`. Using `{{ '/assets/maps/{name}.html' | relative_url }}` always points to the actual file at `/assets/maps/`, regardless of where the post lives.
+
+The `div` is a container for the map with some parameters specifying how much space is alloted to the map in the theme. 100% means the full allocation of the containing element of the theme. Note the `src` path: since a post's own URL lives one folder deep (e.g. `/DHS/your-post-title/`), use `{{ '/assets/maps/{name}.html' | relative_url }}` always points to the actual file at `/assets/maps/`, regardless of where the post lives.
 
 <div style="width:100%; height:70vh;">
   <iframe
