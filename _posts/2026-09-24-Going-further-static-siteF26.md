@@ -64,17 +64,19 @@ In Assignment 1, we use a notebook that creates a "standalone" map in html. We n
 3. Drag and drop that `html` file into the maps subfolder you created in assets. Commit these changes., 
 4. Now we create an iframe.
 
+{% raw %}
 ```
 <div style="width:100%; height:70vh;">
   <iframe
-    src="{{ '/assets/maps/{nameofyourmap}.html' | relative_url }}"
+    src="{{ '/assets/maps/nameofyourmap.html' | relative_url }}"
     style="width:100%; height:100%; border:0;"
     loading="lazy">
   </iframe>
 </div>
 ```
+{% endraw %}
 
-The `div` is a container for the map with some parameters specifying how much space is alloted to the map in the theme. 100% means the full allocation of the containing element of the theme. Note the `src` path: since a post's own URL lives one folder deep (e.g. `/DHS/your-post-title/`), use `{{ '/assets/maps/{name}.html' | relative_url }}` always points to the actual file at `/assets/maps/`, regardless of where the post lives.
+The `div` is a container for the map with some parameters specifying how much space is alloted to the map in the theme. 100% means the full allocation of the containing element of the theme. 
 
 <div style="width:100%; height:70vh;">
   <iframe
@@ -84,7 +86,17 @@ The `div` is a container for the map with some parameters specifying how much sp
   </iframe>
 </div>
 
+## Inserting an image in your post. 
 
+It is easy to put screenshots or other images you have that you want into your posts or pages.
+
+Create an images folder in assets and then place any image you want to use in it.
+
+Within the markdown, use this syntax: 
+
+```
+<img src="/assets/images/imagename.png/jpg" style="zoom:50%;" />
+```
 
 
 Good luck with your customization!
