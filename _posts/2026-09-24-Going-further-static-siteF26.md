@@ -2,7 +2,7 @@
 title: "Going Further with Your Static Site F26"
 last_modified_at: 2026-09-24T12:00:00-05:00
 tags:
-  - Static Site
+  - Github pages
   - Markdown
   - Interactive Map
   - R
@@ -73,7 +73,7 @@ In Assignment 1, we use a notebook that creates a "standalone" map in html. We n
   </iframe>
 </div>
 ```
-The `div` is a container for the map. 
+The `div` is a container for the map with some parameters specifying how much space is alloted to the map in the theme. 100% means the full allocation of the containing element of the theme. 
 
 <div style="width:100%; height:70vh;">
   <iframe
