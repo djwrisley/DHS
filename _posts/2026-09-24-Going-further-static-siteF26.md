@@ -61,7 +61,10 @@ In Assignment 1, we use a notebook that creates a "standalone" map in html. We n
 
 1. Go to your assets folder and add a subfolder called `maps`. You can do that in VSCode. 
 2. Take the `html` you create at the end of the notebook and export it from posit.cloud. Export is found under the settings icon.
-3. Drag and drop that `html` file into the maps subfolder you created in assets. Commit these changes., 
+3. Drag and drop that `html` file into the maps subfolder you created in assets. Commit these changes.
+
+Make sure that you can see the map, formatted like this https://djwrisley.github.io/DHS/assets/maps/LB_featuremap-2.html
+
 4. Now we create an iframe.
 
 {% raw %}
@@ -95,7 +98,7 @@ Create an images folder in assets and then place any image you want to use in it
 Within the markdown, use this syntax: 
 
 ```
-<img src="/assets/images/imagename.png/jpg" style="zoom:50%;" />
+<img src="/assets/images/imagename.png|jpg" style="zoom:50%;" />
 ```
 
 
