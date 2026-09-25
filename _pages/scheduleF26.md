@@ -84,6 +84,7 @@ In the schedule below, the first column `date` indicates the meeting date of the
 | :--- | :--- | :--- |
 | 22 Sept | none | Instructor away at a conference, no class |
 | 24 Sept | <br> -[What is Humanities Mapping?](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003327677-15/humanities-mapping-bill-pascoe) (Pascoe) <br> -[list of projects for our presentations](XXX) <br> -[Another course's list of projects](https://hh2025w.amason.sites.carleton.edu/labs/spatial-humanities-gis-mapping-101/) | <br> -explore how geospatial technologies can support humanities argument and storytelling <br> -discuss what spatial research does well <br> -in class student mini-presentations (in pairs) | 
+| 25 Sept | 9-11am anything from the term so far | a drop-in clinic to catch up on anything covered so far, sites, concepts |
 
 **Extra Credit: 7 October** NYU New York Data Services classes "Breaking Up with Google Docs," an introduction to privacy-centered Joplin and Obsidian. Register [here](https://nyu.libcal.com/event/17428137). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/).
 {: .notice}
