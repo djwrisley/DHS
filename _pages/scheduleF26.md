@@ -123,7 +123,7 @@ This week will do a wrap up of the first half of the semester and brainstorm pos
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 13 Oct | -general review of course materials -From Official, Static Practice to "Neogeographical" Creativity | brainstorming |
+| 13 Oct |  <br> -general review of course materials -From Official, Static Practice to "Neogeographical" Creativity  <br> -What is "International Open Access Week](https://www.openaccessweek.org/)?| <br> -brainstorming <br> -Discussion of what about DHS has been open access and why |
 | 15 Oct | -general review of course materials | **in class written exam** | 
 
 > FALL BREAK -- keep calm and have a break!
