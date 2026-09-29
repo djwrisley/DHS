@@ -98,8 +98,8 @@ In the schedule below, the first column `date` indicates the meeting date of the
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 29 Sept | -[spatial humanities projects reviews](https://djwrisley.github.io/DHS/spatialprojectslist/) | <br> -in class student mini-presentations (in pairs) |
-| 1 Oct | -What is VGI? -1, the Road |  | 
+| 29 Sept | <br> -[spatial humanities projects reviews](https://djwrisley.github.io/DHS/spatialprojectslist/) | <br> -in class student mini-presentations (in pairs) |
+| 1 Oct | <br> -What is VGI? <br> -[1, the Road](https://drive.google.com/drive/folders/1Cqiu7LWkpC_Y-sKXaWtjnyJtXy_je5zJ?usp=drive_link) <br> -Who is [Ross Goodwin](https://rossgoodwin.com/)? <br> -make an account at [Recogito](https://recogito.pelagios.org/signup) | <br> -close reading of 1, the Road | 
 
 **Second Assignment Due: 12 October, 11:59pm** Comparing Human and Machine Mapping of an AI written Novel. Full Instructions [here](https://djwrisley.github.io/DHS/blog/XXX/).
 {: .notice}
@@ -115,8 +115,8 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 6 Oct | -What is Annotation? -Ways of Annotating -Interannotator Disagreement | -Introduction to Recogito -Notebook: "Human versus Machine " |
-| 8 Oct | -Before Web Mapping, there was static software | -Learning some basics about QGIS -Creating a Static Map in QGIS | 
+| 6 Oct | <br> -What is Annotation? <br> -Ways of Annotating <br> -Interannotator Disagreement | <br> -Introduction to Recogito <br> -Notebook: "Human versus Machine " |
+| 8 Oct | <br> -Before Web Mapping, there was static software | <br> -Learning some basics about QGIS <br> -Creating a Static Map in QGIS | 
 
 
 ### Week 7 (13, 15 October)  
