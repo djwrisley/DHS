@@ -78,8 +78,5 @@ Pick a couple projects from the list below (feel free to work in pairs!) and con
 - [The Garden of Earthly Delights](https://storymap.knightlab.com/examples/bosch-garden/)
 - [The Greening of Sir Bani Yas](https://storymaps.arcgis.com/stories/c501bebf16e742a5ad31e5d29c9ad4ea)
 
----
 
-**Note 1:** This is the city where ESUDH 2026 is taking place. Visit [Besançon City Hall (la mairie)](https://www.besancon.fr/) for more information about the city.
 
-[back to HDME](/HDME/program/)
