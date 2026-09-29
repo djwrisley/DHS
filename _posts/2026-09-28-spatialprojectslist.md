@@ -56,6 +56,7 @@ Pick a couple projects from the list below (feel free to work in pairs!) and con
 - [OpenGulf Maps](https://opengulf.github.io/maps/)
 - [ORBIS](https://orbis.stanford.edu/)
 - [Palestine Remembered](https://www.palestineremembered.com/GeoPoints/Jerusalem_528/SatelliteView.html)
+- [Palestine Open Maps](https://palopenmaps.org/en)
 - [Panorama: An Atlas of US History](https://dsl.richmond.edu/panorama/)
 - [Queering the Map](https://www.queeringthemap.com/)
 - [Stolpersteine NRW](https://stolpersteine.wdr.de/web/de/karte)
