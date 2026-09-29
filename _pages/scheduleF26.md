@@ -98,7 +98,7 @@ In the schedule below, the first column `date` indicates the meeting date of the
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 29 Sept | -continuation of spatial humanities projects | <br> -in class student mini-presentations (in pairs) |
+| 29 Sept | -spatial humanities projects reviews | <br> -in class student mini-presentations (in pairs) |
 | 1 Oct | -What is VGI? -1, the Road |  | 
 
 **Second Assignment Due: 12 October, 11:59pm** Comparing Human and Machine Mapping of an AI written Novel. Full Instructions [here](https://djwrisley.github.io/DHS/blog/XXX/).
