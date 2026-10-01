@@ -104,7 +104,7 @@ In the schedule below, the first column `date` indicates the meeting date of the
 **Second Assignment Due: 12 October, 11:59pm** Comparing Human and Machine Mapping of an AI written Novel. Full Instructions [here](https://djwrisley.github.io/DHS/blog/XXX/).
 {: .notice}
 
-**In-class Written Exam: 15 October**. 
+**In-class Written Exam: 15 October** Tips [here](https://djwrisley.github.io/DHS/tipsmedeterm.html). 
 {: .notice}
 
 ### Week 6 (6, 8 October)    
