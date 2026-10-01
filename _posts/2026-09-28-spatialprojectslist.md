@@ -1,5 +1,5 @@
 ---
-title: "Spatial Humanities Projects"
+title: "Spatial Humanities Projects to Review"
 last_modified_at: 2026-09-27T12:00:00-05:00
 tags:
   - projects
@@ -16,25 +16,39 @@ Let's take a look at a few maps and explore what they do:
 - [Milan 1958-1962: Music Topography of a City](https://www.musictopography.com/maps/)
 - [Zero Waste France (centered on Besançon)](https://zerodechet.gogocarto.fr/annuaire#/carte/@47.237,6.027,14z?cat=all)
 
-Pick a couple projects from the list below (feel free to work in pairs!) and consider the following prompts (inspired by [Lincoln Mullen](https://lincolnmullen.com/projects/spatial-workshop/literacy.html)):
+Pick a couple projects from the list below (feel free to work in pairs!) and consider the following prompts (inspired by [Lincoln Mullen](https://lincolnmullen.com/projects/spatial-workshop/literacy.html)).
 
-- What data was used? 
-- How does the viewer perceive it? 
-- What you do take away? 
+## Drucker’s typology of mapping research: 
+
+| Show something on a map | Analyze an aspect of spatial experience | Narrate an event using a map to present the argument |
+| Interpret a map as a historical and critical form | Create a map based from place-based references | Employ coordinate data or use the map as a picture |
+
+Questions to ask yourself as you choose and examine a project: 
+
+(1) What is the purpose of making these maps? 
+(2) Which elements of Drucker’s typology are used? 
+(3) What kind of information is attached to location? (geocoding: adding information –geodata and metadata–to location)
+(4) does the project tell you about who was involved? or the number of people / the labor involved? 
+(5) how was the data for the project sourced? 
+(6) is the data of the project accessible for reuse?
+(7) what you do take away? 
 
 ## Interactive Maps
 
 - [A Map of Paradise Lost](https://olvidalo.github.io/paradise-lost/)
 - [Amerasia: An Inquiry into Early Modern Imaginative Geography](https://www.ifaresearch.org/amerasia/#)
+- [Archaeological Map of Alexandria](https://maps.cealex.org/)
 - [Architrave: Kunst und Architektur in Paris und Versailles im Spiegel deutscher Reiseberichte des Barock](https://architrave.eu/itinerary.html?lang=de#?tab-id=NumberedMap)
 - [An Extremely Detailed Map of the 2020 US Election](https://www.nytimes.com/interactive/2021/upshot/2020-election-map.html)
 - [Atlas of Early Modern Printing](https://atlas.lib.uiowa.edu/)
 - [Authorial London](https://authorial.stanford.edu/)
 - [B'tselem](https://www.btselem.org/map)
 - [Borghi e patrimonio culturale in Puglia (Villages and Cultural Heritage in Puglia)](https://www.dabimus.com/maps/puglia_cult/index.html)
+- [Camels in the early 20th century in Arabia](https://opengulf.github.io/camels/)
 - [Decolonial Atlas](https://decolonialatlas.wordpress.com/)
 - [Detroitography](https://detroitography.com/)
 - [Digital Mapping of Early Modern Spanish Literature](https://editio.github.io/mapping.literature/)
+- [Géolocaliser les documents numérisés avec Gallicarte](https://gallica.bnf.fr/blog/21032018/gallicarte-arrive-dans-gallica) (French)
 - [Harta Blocuri (Apartment Buildings)](https://www.hartablocuri.ro/ploiesti/)
 - [Harass Map (خريطة التحرش)](https://web.archive.org/web/20180000000000*/https://harassmap.org/ar)
 - [Headless Women in Public Art](https://headlesswomeninpublic.art/)
@@ -51,20 +65,27 @@ Pick a couple projects from the list below (feel free to work in pairs!) and con
 - [Mapping Polo](https://www.mappingpolo.com/)
 - [Mapping Shakespeare's Plays](https://www.folger.edu/blogs/collation/mapping-shakespeares-plays/)
 - [Mapping the Gay Guides](https://www.mappingthegayguides.org/)
+- [Mapping Molokhia](https://ccas.georgetown.edu/ccas-newsmagazine/tabletop-debates-reflections-on-molokhia-identity-and-forks-vs-spoons/)
 - [Melville in Rome](https://itinerary-maps.netlify.app/melville-in-rome/)
 - [Montréal, l'avenir du passé (Montreal, the Future of the Past)](https://www.mun.ca/mapm/fra/accueil_cadre.html)
+- [Mozart, Marx and a Dictator](https://www.zeit.de/feature/streetdirectory-streetnames-origin-germany-infographic-english?utm_referrer=https%3A%2F%2Finteractive.zeit.de%2Fgerman-streetnames%2F)
 - [OpenGulf Maps](https://opengulf.github.io/maps/)
 - [ORBIS](https://orbis.stanford.edu/)
 - [Palestine Remembered](https://www.palestineremembered.com/GeoPoints/Jerusalem_528/SatelliteView.html)
 - [Palestine Open Maps](https://palopenmaps.org/en)
 - [Panorama: An Atlas of US History](https://dsl.richmond.edu/panorama/)
+- [People's Atlas of Nuclear Colorado](https://www.coloradonuclearatlas.org/)
 - [Queering the Map](https://www.queeringthemap.com/)
+- [Slave Revolt in Jamaica]()
+- [Smellmap Amsterdam](https://sensorymaps.com/?projects=smellmap-amsterdam)
 - [Stolpersteine NRW](https://stolpersteine.wdr.de/web/de/karte)
 - [The Culture and Communities Mapping Project](https://www.edinburghculturalmap.org/)
 - [The Social Maps of Port Said](https://nerminelsherif.wixsite.com/othermaps/blank-1)
 - [Torn Apart / Separados](https://xpmethod.columbia.edu/torn-apart/volume/1/)
+- [12 Sunsets: Exploring Ed Ruscha’s archive](https://12sunsets.getty.edu/map/1985?d=0.34536)
+- [UFO Sighting Map](https://nuforc.org/map/)
+- [Vieux Carré Digital Survey (Historic New Orleans Collection)](https://vcs.hnoc.org/)
 
-[back to HDME](/HDME/program/)
 
 ## Story Maps
 
