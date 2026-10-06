@@ -111,12 +111,13 @@ In the schedule below, the first column `date` indicates the meeting date of the
 
 **Topic:** Spatializing Texts: Human and Machine.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
+This week we will continue thinking about the AI-created novel by Goodwin and take a look at manual annotation. We discuss the process of manual and automated annotation and the pitfalls of both. . 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 6 Oct | <br> -What is Annotation? <br> -Ways of Annotating <br> -Interannotator Disagreement | <br> -Introduction to Recogito <br> -Notebook: "Human versus Machine " |
-| 8 Oct | <br> -Before Web Mapping, there was static software | <br> -Learning some basics about QGIS <br> -Creating a Static Map in QGIS | 
+| 6 Oct | <br> -What is Annotation? <br> -Ways of Annotating <br> -Interannotator Disagreement <br> -make an account at [Recogito](https://recogito.pelagios.org/signup) | <br> -Introduction to Recogito <br> -Slides: "What is Annotation?" (drive) <br> -Notebook: "Human versus Machine " |
+| 8 Oct | <br> -[The Sultanate of Zanzibar](https://blackpast.org/global-african-history/sultanate-zanzibar-1856-1964/)
+-[Zanzibar](https://en.wikipedia.org/wiki/Zanzibar) (Wikipedia) <br> =[Zanzibar Gazette](https://britishonlinearchives.com/collections/77/volumes/545/tanzania-zanzibar-1892-1919) | <br> -Visit to [Archives and Special Collections, NYUAD Library](https://nyuad.nyu.edu/en/library/collections/archives-and-special-collections.html) (meet in front of the door at the back of the library) | 
 
 
 ### Week 7 (13, 15 October)  
