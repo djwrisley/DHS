@@ -18,16 +18,13 @@ This Mapping Assignment, otherwise known as Assignment 2, will be completed in o
 
 ## About the Text
 
-The text you will annotate in Recogito contains more of the text of _Southern Arabia_ by Theodore and Mabel Bent (Project Gutenberg text #21569). This is the same text for which we annotated the section about the Yemeni island of Socotra. The passage in question will be the first half of the travel through the Hadr al Mot (the Hadhramout).
+The text you will annotate in Recogito is 1 the Road, the AI-created novel by Ross Goodwin. You have been assigned a section of the novel to annotate in class and you should finish it by the time you start this assignment. 
 
-_Southern Arabia_ reflects a late 19th-century imperial gaze that portrays South Arabian societies in an exotic light, making reference to a number of Western-centric cultural references. The text is found in Project Gutenberg as a digital text, but the authors' perspectives raise questions about the representativeness of its ethnographic and historical claims. Despite its biases, the text provides a rich example for testing spatial tagging while critically examining how computational tools surface—and sometimes reproduce—colonial viewpoints.
-
-The portion of the text you will use is located [here](https://raw.githubusercontent.com/DAAHNYUAD/daahnyuad.github.io/refs/heads/master/assets/texts/Bents_Hadhramout.txt).
 
 ## Assignment Details
 
 - **Format**: Individual or pairs (maximum 2 people)
-- **Length**: Approximately 1500 words (about an 8-minute read), plus visuals
+- **Length**: Approximately 1500 words (about an 8-minute read), plus visuals, including a clickable leaflet interactive map in your Github page. 
 - **Due Date**: Monday, 27 April 2026, 11:59pm. 
 - This assignment can be done *alone* or *in pairs*.
 
