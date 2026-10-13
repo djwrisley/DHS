@@ -8,7 +8,8 @@ tags:
 
 The midterm will be in class. You will not have access to any devices. Phones and laptops and smart watches should be put away. I will provide paper. 
 
-The format will be short answer (short paragraph):
+The format will be short answer (short paragraph, a few sentences). You will have a choice of topics. 
+
 
 Sample questions: 
 
@@ -29,3 +30,10 @@ Sample questions:
 8. What kinds of features are included in Geonames data? 
 
 9. How might we say that maps "lie"?
+
+10. What is a spatial humanities project that attempts to show some aspect of data about human life or the human record? Describe what aspects it demonstrates.
+
+
+Terms that could come up: 
+
+
