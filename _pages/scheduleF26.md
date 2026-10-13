@@ -63,7 +63,7 @@ In the schedule below, the first column `date` indicates the meeting date of the
 
 <iframe style="width: 100%; height: 300px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/untitled-map_662327?scaleControl=false&miniMapControl=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/untitled-map_662327?scaleControl=false&miniMapControl=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
 
-**Extra Credit: 25 September** NYU New York Data Services classes "Introduction to R". Up to 2 points on one assignment. Register [here](https://nyu.libcal.com/event/17490476). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/).
+**Extra Credit: 25 September** NYU New York Data Services classes "Introduction to R". Up to 2 points on one assignment. Register [here](https://nyu.libcal.com/event/17490476). Guidelines [here](https://djwrisley.github.io/DHS/guidelines-extra-credit/).
 {: .notice}
 
 ### Week 3 (15, 17 September)   
@@ -89,7 +89,7 @@ In the schedule below, the first column `date` indicates the meeting date of the
 **Announcement, Not Extra Credit: starting 27 September** The NYU Phone Breakup Challenge begins. Learn more about it [here](https://www.nyu.edu/about/university-initiatives/nyu-irl/phone-breakup-challenge.html).
 {: .notice}
 
-**Extra Credit: 7 October** NYU New York Data Services classes "Breaking Up with Google Docs," an introduction to privacy-centered Joplin and Obsidian. Register [here](https://nyu.libcal.com/event/17428137). Guidelines [here](https://djwrisley.github.io/DHS/blog/guidelines-extra-credit/).
+**Extra Credit: 7 October** NYU New York Data Services classes "Breaking Up with Google Docs," an introduction to privacy-centered Joplin and Obsidian. Register [here](https://nyu.libcal.com/event/17428137). Guidelines [here](https://djwrisley.github.io/DHS/guidelines-extra-credit/).
 {: .notice}
 
 ### Week 5 (29 September, 1 October)  
@@ -102,7 +102,7 @@ In the schedule below, the first column `date` indicates the meeting date of the
 | 1 Oct | <br> -What is VGI? <br> -[1, the Road](https://drive.google.com/drive/folders/1Cqiu7LWkpC_Y-sKXaWtjnyJtXy_je5zJ?usp=drive_link) <br> -Who is [Ross Goodwin](https://rossgoodwin.com/)? <br> -make an account at [Recogito](https://recogito.pelagios.org/signup) | <br> -close reading of 1, the Road | 
 
 
-**In-class Written Exam: 15 October** Tips [here](https://djwrisley.github.io/DHS/tipsmidterm.html). 
+**In-class Written Exam: 15 October** Tips [here](https://djwrisley.github.io/DHS/tipsmidtermF26/). 
 {: .notice}
 
 ### Week 6 (6, 8 October)    
