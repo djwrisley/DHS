@@ -33,7 +33,10 @@ Sample questions:
 
 10. What is a spatial humanities project that attempts to show some aspect of data about human life or the human record? Describe what aspects it demonstrates.
 
+11. All mapping might be said to work on the basic idea of assigning a location with some form of information. What problems can arrive with this?
+
 
 Terms that could come up: 
 
+Mercator map 
 

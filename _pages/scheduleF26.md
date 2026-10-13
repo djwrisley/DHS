@@ -101,8 +101,6 @@ In the schedule below, the first column `date` indicates the meeting date of the
 | 29 Sept | <br> -[spatial humanities projects reviews](https://djwrisley.github.io/DHS/spatialprojectslist/) | <br> -in class student mini-presentations (in pairs) |
 | 1 Oct | <br> -What is VGI? <br> -[1, the Road](https://drive.google.com/drive/folders/1Cqiu7LWkpC_Y-sKXaWtjnyJtXy_je5zJ?usp=drive_link) <br> -Who is [Ross Goodwin](https://rossgoodwin.com/)? <br> -make an account at [Recogito](https://recogito.pelagios.org/signup) | <br> -close reading of 1, the Road | 
 
-**Second Assignment Due: 12 October, 11:59pm** Comparing Human and Machine Mapping of an AI written Novel. Full Instructions [here](https://djwrisley.github.io/DHS/blog/XXX/).
-{: .notice}
 
 **In-class Written Exam: 15 October** Tips [here](https://djwrisley.github.io/DHS/tipsmidterm.html). 
 {: .notice}
@@ -117,6 +115,9 @@ This week we will continue thinking about the AI-created novel by Goodwin and ta
 | :--- | :--- | :--- |
 | 6 Oct | <br> -What is Annotation? <br> -Ways of Annotating <br> -Interannotator Disagreement <br> -make an account at [Recogito](https://recogito.pelagios.org/signup) | <br> -Introduction to Recogito <br> -Slides: "What is Annotation?" (drive) <br> -Notebook: "Human versus Machine " |
 | 8 Oct | <br> -[Why Should We Digitize Historical Newspapers](https://web.archive.org/web/20240628020226/https://minorecs.hypotheses.org/495) <br> -[How Do We Digitize Historical Newspapers](https://www.youtube.com/watch?v=XDa-KDsWYb4) <br> -[The Sultanate of Zanzibar](https://blackpast.org/global-african-history/sultanate-zanzibar-1856-1964/) <br>-[Zanzibar](https://en.wikipedia.org/wiki/Zanzibar) (Wikipedia) <br> -[Zanzibar Gazette](https://britishonlinearchives.com/collections/77/volumes/545/tanzania-zanzibar-1892-1919) | <br> -Visit to [Archives and Special Collections, NYUAD Library](https://nyuad.nyu.edu/en/library/collections/archives-and-special-collections.html) (meet in front of the door at the back of the library) | 
+
+**Second Assignment Due: 30 October, 11:59pm** Comparing Human and Machine Mapping of an AI written Novel. Full Instructions [here](https://djwrisley.github.io/DHS/blog/Assignment2-F26/).
+{: .notice}
 
 
 ### Week 7 (13, 15 October)  
