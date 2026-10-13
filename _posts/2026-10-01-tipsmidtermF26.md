@@ -21,7 +21,7 @@ The format will be short answer (short paragraph, a few sentences). You will hav
 
 4. What are parameters for making a map in the leaflet package? 
 
-5. What kinds of information are included in a Geonames datadump for a given country? What is not included?
+5. What kinds of features are included in a Geonames datadump for a given country? What is not included?
 
 6. What is GIS?
 
@@ -47,11 +47,15 @@ The format will be short answer (short paragraph, a few sentences). You will hav
 
 ## Terms that could come up: 
 
-Mercator map 
-Equal Earth projection map
-posit.cloud
-crowdsourcing 
-static sites
-annotation
+- Mercator map 
+- Equal Earth projection map
+- posit.cloud
+- crowdsourcing 
+- static sites
+- annotation
+- critical data studies
+- bounding box
+- base map
+- 
 
 
