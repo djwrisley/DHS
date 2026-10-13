@@ -11,7 +11,7 @@ The midterm will be in class. You will not have access to any devices. Phones an
 The format will be short answer (short paragraph, a few sentences). You will have a choice of topics. 
 
 
-Sample questions: 
+## Sample questions: 
 
 1. What are some technical features of a web-based, digital map?
 
@@ -21,22 +21,37 @@ Sample questions:
 
 4. What are parameters for making a map in the leaflet package? 
 
-5. What kinds of information are included in a Geonames datadump for a given country? 
+5. What kinds of information are included in a Geonames datadump for a given country? What is not included?
 
 6. What is GIS?
 
 7. What do you think that mapping can tell us most about the world we live in? 
-   
-8. What kinds of features are included in Geonames data? 
 
-9. How might we say that maps "lie"?
+8. How might we say that maps "lie"?
 
-10. What is a spatial humanities project that attempts to show some aspect of data about human life or the human record? Describe what aspects it demonstrates.
+9.  What is a spatial humanities project that attempts to show some aspect of data about human life or the human record using interactive maps? Describe what aspects it demonstrates.
 
-11. All mapping might be said to work on the basic idea of assigning a location with some form of information. What problems can arrive with this?
+10. All mapping might be said to work on the basic idea of assigning a location with some form of information. What problems can arrive with this?
+
+11. What did you learn about the country you mapped in Assignment 1? 
+
+12. Does the country you worked on in A1 have a Geonames coordinator or team? How might the data be different if it did?
+
+13. What are some ways maps can be used for social justice (Krupar, or other readings)?
+
+14. What was your favorite point made by Kitchin & Lauriault in "Towards Critical AI Studies"?
+
+15. What kinds of data can Ross Goodwin's car in 1 the Road be said to have created?
 
 
-Terms that could come up: 
+
+## Terms that could come up: 
 
 Mercator map 
+Equal Earth projection map
+posit.cloud
+crowdsourcing 
+static sites
+annotation
+
 

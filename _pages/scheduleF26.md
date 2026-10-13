@@ -131,7 +131,7 @@ This week will do a wrap up of the first half of the semester and brainstorm pos
 | 13 Oct |  <br> -general review of course materials for written midterm  <br> -What is ["International Open Access Week"](https://www.openaccessweek.org/)? <br> -[Who Pays for Open Source?](https://www.podbean.com/ew/pb-ujs2z-1b01fa7) (podcast) | <br> -brainstorming <br> -Discussion of what about DHS has been open access and why |
 | 15 Oct | -general review of course materials | **in class written exam** | 
 
-> FALL BREAK -- keep calm and have a break!
+> FALL BREAK -- keep calm and have a break! If you want something to watch on Netflix, try The Billion Dollar Code, the German series we spoke about before. 
 
 ## Part 2 
 
@@ -143,20 +143,20 @@ In this week we will take a step back to look at the development of mapping from
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 27 Oct | -Introducing the second half of the semester -How Much has Mapping Changed -What is next for geospatial? | - introducing the final oral exam |
-| 29 Oct | -What is Data Modeling in the Humanities? |  |
+| 27 Oct | <br> -Introducing the second half of the semester <br> -How Much has Mapping Changed from early GIS to today <br> -How do new geospatial technologies change the way we will map? | <br> -introducing the final oral exam |
+| 29 Oct | <br> -What is Data Modeling in the Humanities? |  |
 
 
 ### Week 9 (3, 5 November) 
 
 **Topic:** Getting Help to Create Structured Data from Complex Sources: LLMs
 
-This week we will return to the idea of modeling data, that is, giving a shape to it based on a source. We will think about ways that complex analog sources, once digitized, can be modeled as spatial data sets. This process will allow us to allow them to visualized and analyzed. 
+This week we will return to the idea of modeling data, that is, giving data shape, based on information found in unstructured sources. We will think about ways that complex analog sources, once digitized, can be modeled as spatial data sets. This process will allow us to allow them to visualized and analyzed. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 3 Nov | Complex Sources - remember the phone book?  |  |
-| 5 Nov | Complex Sources - mapping the pre-oil Gulf  Lorimer's Gazetteer -Data Modeling and LLM prompting |  |
+| 3 Nov | <br> -Modeling Complex Sources (remember the phone book?) |  |
+| 5 Nov | <br> -Complex Sources (mapping the pre-oil Gulf  Lorimer's _Gazetteer_ <br> -Data Modeling and LLM prompting |  |
 
 > Oral Exams during the week of 24 November. [Guidelines for oral exam](https://djwrisley.github.io/RLAC/oralreflectionquestions/). Sign ups available [here](). 
 
