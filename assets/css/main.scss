@@ -43,3 +43,24 @@
     }
   }
 }
+
+/* Remove the left profile sidebar space so content aligns with the masthead title */
+@media (min-width: 64em) {
+  .sidebar {
+    display: none;
+  }
+
+  .page,
+  .archive,
+  .page__related {
+    float: none;
+    width: 100%;
+    padding-inline-start: 0;
+    padding-inline-end: 0;
+  }
+
+  .page__inner-wrap,
+  .page__content {
+    margin-inline-start: 0;
+  }
+}
