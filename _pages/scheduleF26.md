@@ -137,17 +137,27 @@ This week will do a wrap up of the first half of the semester and brainstorm pos
 
 ### Week 8 (27, 29 October)  
 
-**Topic:** The Past of Maps, the Future of Maps
+**Topic:**  The Past of Paper Maps: Comparing Spatial Perspectives of Historical Cartography
 
-In this week we will take a step back to look at the development of mapping from paper-based analog practices to the latest digital trends. We will discuss briefly some of the ways that geospatial tech is moving us being just navigating while driving or walking.  
+Long before maps were made digital they were paper-based objects. We will explore how, once digitized, analog maps gain currency in the digital world, how we can study them for the perspectives of their makers as well as derive data from them for use in computational systems. Highlighted this week will be Soviet cartography. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 27 Oct | <br> -Introducing the second half of the semester <br> -How Much has Mapping Changed from early GIS to today <br> -How do new geospatial technologies change the way we will map? | <br> -introducing the final oral exam |
-| 29 Oct | <br> -What is Data Modeling in the Humanities? |  |
-
+| 27 Oct | <br> -Introducing the second half of the semester <br> -How Much has Mapping Changed from early GIS to today What is QGIS? -What is Georeferencing?  | <br> -[Introducing Assignment 2](https://djwrisley.github.io/DHS/Assignment2-F26/) |
+| 29 Oct  | -Georeferencing |  |
 
 ### Week 9 (3, 5 November) 
+
+**Topic:** The Past of Maps, the Future of Maps
+
+This week we will work with georeferencing formerly analog, now digitized, maps. What can such an approach allow us? How can we analyzing them visually? Is analysis possible computationally? 
+
+| Date | Preparation | Activity | 
+| :--- | :--- | :--- |
+| 3 Nov  |  <br> -Thinking about Soviet Cartography | <br> -Hands-on: Georeferencing a Soviet map of a UAE city <br> -introducing the final oral exam |
+| 5 Nov | <br> -Reasons to Georeference & Vectorize | <br> -Hands-on: Georeferencing & Vectorizing, Reusing those files in R  |
+
+### Week 10 (10, 12 November)
 
 **Topic:** Getting Help to Create Structured Data from Complex Sources: LLMs
 
@@ -155,66 +165,61 @@ This week we will return to the idea of modeling data, that is, giving data shap
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 3 Nov | <br> -Modeling Complex Sources (remember the phone book?) |  |
-| 5 Nov | <br> -Complex Sources (mapping the pre-oil Gulf  Lorimer's _Gazetteer_ <br> -Data Modeling and LLM prompting |  |
+| 3 Nov | <br> -What is Data Modeling in the Humanities? <br> -Modeling Complex Sources (remember the phone book?) |  |
+| 5 Nov | <br> -Complex Sources <br> -mapping the pre-oil Gulf Lorimer's _Gazetteer_  | <br> -Data Modeling and LLM prompting |
 
 > Oral Exams during the week of 24 November. [Guidelines for oral exam](https://djwrisley.github.io/RLAC/oralreflectionquestions/). Sign ups available [here](). 
 
+### Week 11 (17, 19 November) 
 
-**Third Assignment Due: 20 November, 11:59pm** Critical Data Manipulation with an LLM. Full Instructions [here](https://djwrisley.github.io/DSH/blog/XXX).
-{: .notice}
-
-### Week 10 (10, 12 November) 
-
-**Topic:**  The Past of Paper Maps: Comparing Spatial Perspectives of Historical Cartography
-
-Long before maps were made digital they were paper-based objects. We will explore how, once digitized, analog maps gain currency in the digital world, how we can study them for the perspectives of their makers as well as derive data from them for use in computational systems. Highlighted this week will be Soviet cartography. 
+Instructor Away at a conference.  The first course on Tuesday will be an online interactive demo on LLM prompting for data extraction. Thursday's course will be made up the following week for practice for oral exams. A zoom link will be shared in our Google space prior to the meeting. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 10 Nov | -What is QGIS? -What is Georeferencing?  |  |
-| 12 Nov | -Georeferencing Soviet Cartography -Georeferencing World Cities |  |
+| 17 Nov (online) | <br> -What is Data Modeling in the Humanities? <br> -Modeling Complex Sources (remember the phone book?) |  |
+| 19 Nov | <br> -Complex Sources (mapping the pre-oil Gulf  Lorimer's _Gazetteer_ <br> -Data Modeling and LLM prompting |  |
 
-### Week 11 (17, 19 November) 
-
-Instructor Away at a conference. Independent work on Assignment 3 and preparation for the Courses made up the following week for oral exams. 
-
-**Oral exams**. Oral exams will be held outside of regular class hours the week of 23 November and the beginning of the next. 
+**Oral exams**. Oral exams will be held outside of regular class hours at the end of the week of 23 November and the beginning of the next. 
 {: .notice}
+
+**Third Assignment Due: 30 November, 11:59pm** Critical Data Manipulation with an LLM. Full Instructions [here](https://djwrisley.github.io/DSH/blog/XXX).
+{: .notice}
+
 
 ### Week 12 (24, 26 November) 
 
-**Topic:**  Interacting with the GeoSpatial: Changing Frontiers 
+**Topic:**  Changing Frontiers: Human versus Machine Descriptions of the World 
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
+Today we return to the concept of vectorization seen previously in the semester. Vectorization is a way that we can create a spatial polygon and connect it with a semantics. We will see both 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 24 Nov | -What is humanitarian GIS? | -hands on with HOTOSM |
-| 26 Nov | -How is AI changing geospatial technologies  -What is GeoAI  | -Critical hands-on with some AI GIS tools (Map Reader at David Rumsey Center, Ask Maps, GeoGPT, etc)  |
-
-**Fourth Assignment Due: 11 December**. GeoAI for Vectorization. Prompt [here](). Rubric in the rubric tab. 
-{: .notice} 
+| 24 Nov | <br> -What is humanitarian GIS? <br> -Crowdsourced knowledge for good | <br> -hands on with HOTOSM |
+| 26 Nov | <br> -How is AI changing geospatial technologies  <br> -What is GeoAI  <br> -Podcast on Machine Descriptions of the World |  Discussion  |
 
 ### Week 13 (1 December)  
 
-**Topic:** New Frontiers for Geospatial
+**Topic:** GeoAI In Humanistic and Social Domains. 
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
+This week we will look at some of the newest ways that spatial data is being leveraged for  problem solving in domains such as urban planning, smart cities and geospatial intelligence, in addition to some of the critiques of such methods. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 1 Dec | More Geospatial AI exploration |   |
+| 1 Dec | <br> -What is GeoAI <br> -["What is Segmentation?"](https://segment-anything.metademolab.com/) <br> -["What is AI Vectorizer"](https://terra-lab.ai/blog/ai-edit-complete-guide) <br> -["More about AI Segmentation of Maps"](https://terra-lab.ai/blog/ai-segmentation-complete-guide) | <br> -hands on with vectorizing aerial images  <br> -Critical hands-on with some AI GIS tools  |
 | 3 Dec | none | National Day Holiday! |
 
+**Fourth (optional) Assignment Due: 13 December**.  Between Distant Coding and Prompt Cartography : Developing a Complex Interactive Mapping Project using an LLM. Prompt [here](). Rubric in the rubric tab. 
+{: .notice} 
 
 ### Week 14 (8, 10 December)  
 
-**Topic:** GeoAI In Humanistic and Social Domains. This week we will look at some of the newest ways that spatial data is being leveraged for  problem solving in domains such as urban planning, smart cities and geospatial intelligence, in addition to some of the critiques of such methods. 
+**Topic:** "Prompt Cartography" 
+
+Winding down the semester we will look at one of the ways that LLMs are impacting the creation of maps, but also reemphasizing the importance on traditional skills of design and high quality data creation. 
 
 | :--- | :--- | :--- |
-| 8 Dec | ["What is Segmentation?"](https://segment-anything.metademolab.com/) ["What is AI Vectorizer"](https://terra-lab.ai/blog/ai-edit-complete-guide) ["More about AI Segmentation of Maps"](https://terra-lab.ai/blog/ai-segmentation-complete-guide) | -hands on with vectorizing aerial images |
-| 10 Dec |  -Risks of AI in geospatial | -Discussion | 
+| 8 Dec |  <br> -What is Prompt Cartography? | <br> -Some more exploration (Rumsey text search in maps ) <br> -Redoing assignment 1 and 2 with prompts |
+| 10 Dec |  <br> -What is Prompt Cartography? 2 | -Discussion | 
 
 
 ### Week 15 (14 December)
