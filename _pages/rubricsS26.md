@@ -10,25 +10,13 @@ layout: single
 
 ## Assignment Rubrics
 
-This page provides rubrics for assessing written responses and major assignments in this course. Rubrics are organized by learning outcome and offer clear criteria for high-quality work.
+This page provides rubrics for assessing written and oral exams, periodic assignments and final projects in my courses. Rubrics are organized by learning outcome and offer clear criteria for high-quality work.
 
 ---
 
-## Written Response Rubric
+## Assignment Rubric
 
-| Criterion | Exemplary (10) | Proficient (8) | Developing (6) | Beginning (4) | Incomplete (0) |
-|-----------|--------|-----------|-----------|---------|------------|
-| **Central Idea/Argument** | Clear, focused argument that directly engages course concepts; original thinking evident | Clear argument that engages course concepts with mostly original thinking | Argument present but somewhat unclear; relies heavily on course materials | Argument vague or superficial; minimal engagement with concepts | No clear argument or engagement |
-| **Evidence & Analysis** | Strong, specific evidence; sophisticated analysis showing critical thinking | Good evidence; clear analysis connecting to argument | Adequate evidence; basic analysis present | Limited or generic evidence; minimal analysis | Missing evidence or analysis |
-| **Visual Integration** | Visuals are essential to argument; multiple, well-chosen, clearly captioned; professional quality | Visuals support argument; well-chosen, clearly captioned | Some visuals present; captions present but could be clearer | Visuals present but minimally integrated; weak captions | Few/no visuals or poorly integrated |
-| **Writing Quality** | Exceptional clarity and style; sophisticated vocabulary; error-free | Clear, well-organized; good word choice; minimal errors | Generally clear; some organizational issues; minor errors | Unclear in places; organizational problems; multiple errors | Poor clarity and organization; numerous errors |
-| **Engagement with Course Material** | Synthesizes multiple class concepts; shows deep learning | References several course materials; demonstrates understanding | References course material; shows basic understanding | Limited reference to course material | No reference to course content |
-
----
-
-## Assignment 1 & 2 Rubric
-
-These assignments require you to apply computational text analysis methods to a corpus of your choice.
+These assignments require you to apply computational analysis methods to the data of the assignment.
 
 | Criterion | Exemplary (15) | Proficient (12) | Developing (9) | Beginning (6) | Incomplete (0) |
 |-----------|--------|-----------|-----------|---------|------------|
@@ -40,6 +28,31 @@ These assignments require you to apply computational text analysis methods to a 
 | **Writing Quality & Organization** | Exceptional clarity, flow, and organization; sophisticated voice; minimal errors | Clear organization and flow; appropriate scholarly voice; minor errors | Generally organized; mostly clear; some awkward passages; minor errors | Organization could be clearer; writing needs improvement; several errors | Disorganized; unclear writing; numerous errors |
 
 ---
+
+## Oral Exam Rubric
+
+| Criterion | Exemplary (10) | Proficient (8) | Developing (7) | Beginning (5) | Incomplete (0) |
+|-----------|--------|-----------|-----------|---------|------------|
+| **Content Mastery** | Demonstrates comprehensive and nuanced understanding of all key topics; integrates course concepts seamlessly | Shows clear understanding of key topics; may miss minor nuance | Adequate grasp of primary concepts; gaps in depth/accuracy | Limited understanding; significant content gaps and misconceptions | Shows minimal or incorrect understanding; fails to correctly address content |
+| **Accuracy of Responses** | Answers are consistently accurate, insightful, and logically justified; integrates evidence or examples where appropriate | Mostly accurate responses with occasional minor errors; sound reasoning | Some correct responses; inconsistent reasoning; moderate inaccuracies | Frequent inaccuracies; reasoning is unclear or flawed | Responses are largely incorrect or irrelevant |
+| **Organization & Structure** | Responses are well-structured and logical; easy to follow progression of ideas | Clear structure with minor lapses in organization | Organization is present but uneven; transitions may be weak | Poorly organized responses; ideas are difficult to follow | No discernible organization; answers are unfocused |
+| **Engagement with Questions** | Responds promptly and thoughtfully to questions; extends beyond the question to offer deeper insight | Responds appropriately; shows solid understanding of question intent | Responses address the question but lack depth or completeness | Struggles to respond to questions; answers are incomplete or partially off-topic | Unable to respond to questions meaningfully |
+| **Critical Thinking & Synthesis** | Demonstrates strong critical thinking; synthesizes ideas, connects concepts, and offers original perspective | Shows some critical thinking; connections across concepts are present but not rich | Basic reasoning present; limited synthesis of concepts | Minimal critical thinking; responses are repetitive or descriptive only | No evidence of critical thinking; superficial or absent reasoning |
+
+---
+
+## Written Timed Midterm or Final Rubric
+
+This rubric evaluates performance on short-answer written exam questions completed under timed, closed-device conditions. Evaluation focuses on content mastery, conciseness, specific detail, and overall responsiveness across all required questions.
+
+| Criterion | Exemplary (10) | Proficient (8) | Developing (6) | Beginning (4) | Incomplete (0) |
+| --- | --- | --- | --- | --- | --- |
+| **Completeness & Directness** | Answers the required number of questions or more; each response consists of several complete sentences directly addressing the prompt. | Answers the required number of questions; responses mostly meet length expectations with minor brevity or wordiness. | Answers most required questions, or several responses are overly brief (single sentence) or excessively long. | Answers fewer than the required number of questions, or responses consistently miss prompt requirements. | Fails to complete a significant portion of the exam. |
+| **Accuracy & Content Mastery** | Demonstrates precise, thorough understanding of concepts, terms, and core topics without factual errors. | Demonstrates solid understanding of key concepts with minimal minor inaccuracies. | Demonstrates basic grasp of concepts; contains occasional factual or conceptual errors. | Demonstrates significant gaps in content knowledge and frequent inaccuracies. | Unacceptable accuracy; major misunderstandings throughout. |
+| **Conciseness & Context** | Carefully balances brevity with depth; provides essential background detail without filler. | Good balance of context and conciseness; clear responses with occasional minor wordiness or light detail. | Adequate context provided, but responses lean toward either overly summary statements or unnecessary length. | Minimal context or detail provided; responses are superficial or rambled. | Missing context, detail, and substance across answers. |
+| **Synthesis & Non-Redundancy** | Connects ideas smoothly while keeping answers distinct; avoids repetition across responses. | Minimal repetition across answers; distinct perspectives or examples used across questions. | Noticeable overlap in examples, terminology, or concepts across multiple answers. | Highly repetitive across answers; relies on identical examples or framing throughout. | Severe repetition or refusal/inability to address different aspects of the topics. |
+| **Clarity & Formatting** | Response numbers are accurately listed next to each answer; writing is clear, well-structured, and easy to follow under timed conditions. | Clear writing with clear numbering; minor grammatical or stylistic errors that do not hinder meaning. | Mostly clear, but occasional numbering omissions or structural clutter make responses harder to follow. | Unclear organization, missing question numbers, or frequent errors that obscure meaning. | Unreadable, disorganized, or missing proper question identification. |
+
 
 ## Final Project Rubric
 
@@ -69,16 +82,6 @@ Participation is assessed on the basis of:
 | **Absent (0)** | Does not participate or attend; or participates in disruptive manner |
 
 ---
-
-## Oral Exam Rubric
-
-| Criterion | Exemplary (10) | Proficient (8) | Developing (7) | Beginning (5) | Incomplete (0) |
-|-----------|--------|-----------|-----------|---------|------------|
-| **Content Mastery** | Demonstrates comprehensive and nuanced understanding of all key topics; integrates course concepts seamlessly | Shows clear understanding of key topics; may miss minor nuance | Adequate grasp of primary concepts; gaps in depth/accuracy | Limited understanding; significant content gaps and misconceptions | Shows minimal or incorrect understanding; fails to correctly address content |
-| **Accuracy of Responses** | Answers are consistently accurate, insightful, and logically justified; integrates evidence or examples where appropriate | Mostly accurate responses with occasional minor errors; sound reasoning | Some correct responses; inconsistent reasoning; moderate inaccuracies | Frequent inaccuracies; reasoning is unclear or flawed | Responses are largely incorrect or irrelevant |
-| **Organization & Structure** | Responses are well-structured and logical; easy to follow progression of ideas | Clear structure with minor lapses in organization | Organization is present but uneven; transitions may be weak | Poorly organized responses; ideas are difficult to follow | No discernible organization; answers are unfocused |
-| **Engagement with Questions** | Responds promptly and thoughtfully to questions; extends beyond the question to offer deeper insight | Responds appropriately; shows solid understanding of question intent | Responses address the question but lack depth or completeness | Struggles to respond to questions; answers are incomplete or partially off-topic | Unable to respond to questions meaningfully |
-| **Critical Thinking & Synthesis** | Demonstrates strong critical thinking; synthesizes ideas, connects concepts, and offers original perspective | Shows some critical thinking; connections across concepts are present but not rich | Basic reasoning present; limited synthesis of concepts | Minimal critical thinking; responses are repetitive or descriptive only | No evidence of critical thinking; superficial or absent reasoning |
 
 
 ## Feedback and Revision
