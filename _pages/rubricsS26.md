@@ -10,13 +10,13 @@ layout: single
 
 ## Assignment Rubrics
 
-This page provides rubrics for assessing written and oral exams, periodic assignments and final projects in my courses. Rubrics are organized by learning outcome and offer clear criteria for high-quality work.
+This page provides rubrics for assessing written and oral exams, periodic assignments and final projects in my courses. Rubrics are organized by learning outcome and offer criteria for high-quality work.
 
 ---
 
 ## Assignment Rubric
 
-These assignments require you to apply computational analysis methods to the data of the assignment.
+Assignments require you to apply computational analysis methods to the data covered by the assignment.
 
 | Criterion | Exemplary (15) | Proficient (12) | Developing (9) | Beginning (6) | Incomplete (0) |
 |-----------|--------|-----------|-----------|---------|------------|
@@ -30,6 +30,8 @@ These assignments require you to apply computational analysis methods to the dat
 ---
 
 ## Oral Exam Rubric
+
+Oral exams span a variety of skills from factual recall, to synthetic and metacognitive reflection. 
 
 | Criterion | Exemplary (10) | Proficient (8) | Developing (7) | Beginning (5) | Incomplete (0) |
 |-----------|--------|-----------|-----------|---------|------------|

@@ -154,7 +154,7 @@ This week we will work with georeferencing formerly analog, now digitized, maps.
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 3 Nov  |  <br> -Thinking about Soviet Cartography | <br> -Hands-on: Georeferencing a Soviet map of a UAE city <br> -introducing the final oral exam |
+| 3 Nov  |  <br> -["Russian and Soviet Cartography: A Concise History"](https://link.springer.com/chapter/10.1007/978-3-030-84017-4_1) <br> -["The Soviet Military Program that Secretly Mapped the Entire World"](https://www.nationalgeographic.com/history/article/maps-soviet-union-ussr-military-secret-mapping-spies) | <br> -Hands-on: Georeferencing a Soviet map of a UAE city <br> -introducing the final oral exam |
 | 5 Nov | <br> -Reasons to Georeference & Vectorize | <br> -Hands-on: Georeferencing & Vectorizing, Reusing those files in R  |
 
 ### Week 10 (10, 12 November)
