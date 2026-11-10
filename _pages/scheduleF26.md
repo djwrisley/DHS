@@ -165,7 +165,7 @@ This week we will finish up with the idea of extracting data from digitized hist
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 3 Nov | [Introducing Vectorizing in QGIS](https://digikar-qgis.github.io/tutorials/tutorial_3/text/) | <br> -Hands-on: Georeferencing & Vectorizing [Islam in Africa map](https://maps.lib.utexas.edu/maps/africa/africa_islam_87.jpg) <br> -Collaborative Vectorization |
+| 3 Nov | <br> -[Introducing Vectorizing in QGIS](https://digikar-qgis.github.io/tutorials/tutorial_3/text/) <br> -[An attempt at historical vectorization](https://www.jstor.org/stable/48785726?seq=1) <br> -[Companion data](https://zenodo.org/records/7812964) | <br> -Hands-on: Georeferencing & Vectorizing [Islam in Africa map](https://maps.lib.utexas.edu/maps/africa/africa_islam_87.jpg) <br> -Collaborative Vectorization |
 | 5 Nov |<br> -What is Data Modeling in the Humanities? <br> -Modeling Complex Sources (remember the phone book?) <br> -Complex Sources <br> -mapping the pre-oil Gulf Lorimer's _Gazetteer_  | <br> -Introducing Assignment 3 <br> -Data Modeling and LLM prompting |
 
 > Oral Exams during the week of 24 November. [Guidelines for oral exam](https://djwrisley.github.io/RLAC/oralreflectionquestions/). Sign ups available [here](). 
