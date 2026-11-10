@@ -23,15 +23,6 @@ Some baseline things we will do in the course include: building a site to host y
 
 The Fall 2026 version of the course is offered as a Data and Discovery course in NYUAD's Core Curriculum. 
 
-The Core Curriculum Program Learning Outcomes are to 
-
-1.  Critically examine historical and contemporary topics of global significance, which includes formulating clear, precise questions and arriving at well-reasoned conclusions using a. qualitative, b. quantitative, c. contextual, and d. creative modes of reasoning;  (CLO 1, 2, 3, 7)
-
-2.  Communicate effectively for various audiences and purposes, including participation in public settings; (CLO 2, 3, 5, 7)
-
-3.  Demonstrate self-understanding and intercultural competency; (CLO 4, 6) 
-
-4.  Identify and reflect critically on conceptual and ethical complexity. (CLO 4, 8) 
 
 ## Course Learning Outcomes
 
@@ -39,12 +30,20 @@ Our Course Learning Outcomes (CLOs) are listed below. They map onto to the Core 
 
 | DHS | CLO | Core PLO |
 | :--- | :--- | :--- | 
-| 1 | Explore representations of human culture in digital, geographic space | 1 | 
-| 2 | Gain important data literacy skills, such as creating and manipulating data as well as data management strategies, including ones assisted by machine intelligence | 1, 2 | 
-| 3 | Compare community-based, open data initiatives with commercial, proprietary ones, reflecting on ethics, access and global data gaps | 1, 2 | 
-| 4 | Acquire strategies for integrating data and mapping into their own writing and research | 3 |
-| 5 | Participate collaboratively in project-based research | 2 |
-| 6 | Practice effective communication skills in a written research blog and in multi-modal spatial storytelling | 3 |
-| 7 | Explore the ways that location-based technologies are rapidly evolving around them and both the creative possibilities and ethical concerns they raise | 1, 2 |
+| 1 | Explore representations of human culture in digital, geographic space | XX | 
+| 2 | Gain important data literacy skills, such as creating and manipulating data as well as data management strategies, including ones assisted by machine intelligence | XX | 
+| 3 | Compare community-based, open data initiatives with commercial, proprietary ones, reflecting on ethics, access and global data gaps | XX | 
+| 4 | Acquire strategies for integrating data and mapping into their own writing and research | XX |
+| 5 | Participate collaboratively in project-based research | XX |
+| 6 | Practice effective communication skills in a written research blog and in multi-modal spatial storytelling | XX |
+| 7 | Explore the ways that location-based technologies are rapidly evolving around them and both the creative possibilities and ethical concerns they raise | XX |
 
 
+## Core Curriculum Program Learning Outcomes for Data and Discovery
+
+1. Access, organize, and query authentic data sets in a variety of contexts.
+2. Demonstrate computational thinking in data analysis.
+3. Create, interpret, and critique visual displays of data.
+4. Apply statistical reasoning to construct and evaluate data-based claims.
+5. Engage critically with mathematical models that generate predictions.
+6. Evaluate the consequences of different forms of data collection and utilization.
