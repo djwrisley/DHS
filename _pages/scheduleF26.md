@@ -155,18 +155,18 @@ This week we will work with georeferencing formerly analog, now digitized, maps.
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 3 Nov  |  <br> -["Russian and Soviet Cartography: A Concise History"](https://link.springer.com/chapter/10.1007/978-3-030-84017-4_1) <br> -["The Soviet Military Program that Secretly Mapped the Entire World"](https://www.nationalgeographic.com/history/article/maps-soviet-union-ussr-military-secret-mapping-spies)  <br> -[McMaster University's Cold War Collection](https://library.mcmaster.ca/cold-war-1945-1989)| <br> -Hands-on: Georeferencing a Soviet map of a UAE city <br> -[Soviet Military Map Finder](https://satmaps.info/) <br> -[Why Georeferencing Matters in GIS](https://www.youtube.com/watch?v=yNvqnG5o_io) <br> -[How to Georeference in QGIS?](https://www.youtube.com/watch?v=XV62QEk0Cxg) <br> -[How to Georeference a Map or Image in QGIS?](https://www.youtube.com/watch?v=XV62QEk0Cxg) |
-| 5 Nov | <br> -Reasons to Georeference & Vectorize | <br> -Hands-on: Georeferencing & Vectorizing, Reusing those files in R  <br> -introducing the final oral exam |
+| 5 Nov | <br> -Reasons to Georeference & Vectorize | <br> -Hands-on: Georeferencing & Vectorizing  <br> -introducing the final oral exam |
 
 ### Week 10 (10, 12 November)
 
 **Topic:** Getting Help to Create Structured Data from Complex Sources: LLMs
 
-This week we will return to the idea of modeling data, that is, giving data shape, based on information found in unstructured sources. We will think about ways that complex analog sources, once digitized, can be modeled as spatial data sets. This process will allow us to allow them to visualized and analyzed. 
+This week we will finish up with the idea of extracting data from digitized historical maps and then return to the idea of modeling data, that is, giving data shape, based on information found in unstructured sources. We will think about ways that complex analog sources, once digitized, can be modeled as spatial data sets. This process will allow us to allow them to visualized and analyzed. 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 3 Nov | <br> -What is Data Modeling in the Humanities? <br> -Modeling Complex Sources (remember the phone book?) |  |
-| 5 Nov | <br> -Complex Sources <br> -mapping the pre-oil Gulf Lorimer's _Gazetteer_  | <br> -Data Modeling and LLM prompting |
+| 3 Nov | [Introducing Vectorizing in QGIS](https://digikar-qgis.github.io/tutorials/tutorial_3/text/) | <br> -Hands-on: Georeferencing & Vectorizing [Islam in Africa map](https://maps.lib.utexas.edu/maps/africa/africa_islam_87.jpg) <br> -Collaborative Vectorization |
+| 5 Nov |<br> -What is Data Modeling in the Humanities? <br> -Modeling Complex Sources (remember the phone book?) <br> -Complex Sources <br> -mapping the pre-oil Gulf Lorimer's _Gazetteer_  | <br> -Introducing Assignment 3 <br> -Data Modeling and LLM prompting |
 
 > Oral Exams during the week of 24 November. [Guidelines for oral exam](https://djwrisley.github.io/RLAC/oralreflectionquestions/). Sign ups available [here](). 
 
