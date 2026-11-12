@@ -166,9 +166,9 @@ This week we will finish up with the idea of extracting data from digitized hist
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 10 Nov | <br> -[Introducing Vectorizing in QGIS](https://digikar-qgis.github.io/tutorials/tutorial_3/text/) <br> -[An attempt at historical vectorization](https://www.jstor.org/stable/48785726?seq=1) <br> -[Companion data](https://zenodo.org/records/7812964) | <br> -Hands-on: Georeferencing & Vectorizing [Islam in Africa map](https://maps.lib.utexas.edu/maps/africa/africa_islam_87.jpg) <br> -[Collaborative Vectorization](https://maptiler.georeferencer.com/) |
-| 12 Nov | <br> -What is Data Modeling in the Humanities? (slides) <br> -Modeling Complex Sources (remember the phone book?) <br> -mapping the pre-oil Gulf Lorimer's _Gazetteer_ | <br> -Introducing Assignment 3 <br> -Introducing the Final Oral Exam <br> -Data Modeling and LLM prompting |
+| 12 Nov | <br> -What is Data Modeling in the Humanities? (slides) <br> -Modeling Complex Sources (remember the phone book?) <br> -[Visualizing City Directories](https://csudigitalhumanities.org/2022/08/visualizing-city-directories/) <br> -[Euclid Avenue City Directory Data](https://visual.clevelandhistory.org/euclid/) | <br> -Introducing Assignment 3 <br> -Introducing the Final Oral Exam <br> -Data Modeling and LLM prompting |
 
-> Oral Exams during the week of 24 November. [Guidelines for oral exam](https://djwrisley.github.io/RLAC/oralreflectionquestions/). Sign ups available [here](). 
+> Oral Exams during 27 November- 1 December. [Guidelines for oral exam](https://djwrisley.github.io/RLAC/oralreflectionquestions/). Sign ups available [here](). 
 
 ### Week 11 (17, 19 November) 
 
