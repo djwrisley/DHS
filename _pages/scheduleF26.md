@@ -75,7 +75,6 @@ In the schedule below, the first column `date` indicates the meeting date of the
 | 15 Sept |  <br> -[Early GIS in Canada](https://www.youtube.com/watch?v=3VLGvWEuZxI) <br> -["Evolution of GIS"](https://esrimm.com/wp-content/uploads/2024/09/wigis-history-of-gis.pdf) <br> -[The Billion Dollar Code - trailer](https://www.youtube.com/watch?v=iDvPvqImb-4) <br> -[About The Billion Dollar Code](https://en.wikipedia.org/wiki/The_Billion_Dollar_Code) <br> -[GeoNames](https://en.wikipedia.org/wiki/GeoNames) <br> -[How OpenStreetMap Got Started](https://www.youtube.com/watch?v=DE2KvtvFOU4) <br> -[Things that Happened in 2004](https://www.buzzfeed.com/briangalindo/things-that-happened-in-2004) (Buzzfeed) | <br> -[Today's slides](https://docs.google.com/presentation/d/138fyy-Z-UFqKVINoyOZkeELd8I3m_rm-vXSvsi4fqXc/edit?slide=id.p#slide=id.p) <br> -[GeoNames Webservice](https://www.geonames.org/export/) <br> -Quick Map Visualization using kepler.gl and UMap | 
 | 17 Sept | <br> -[How reliable is the data in OSM?](XXX) <br> -Make an account at [posit.cloud](https://posit.cloud/) <br> -Skim-watch [RStudio for Beginners with PositCloud and chatGPT](https://www.youtube.com/watch?v=YUGnQQ_hyNI&t=3721s) <br> -["Working in a Programming Language" in Humanities Data Essentials in R](https://hdf.benschmidt.org/R/) | <br> -Making sure our GitHub pages are working <br> -Querying OSM in overpass turbo <br> -Notebook: "The Anatomy of a Web Map" <br> -Notebook: "Mapping Specific Features in OSM data of your choice" (posit.cloud)  <br> -A Peek at QGIS | 
 
-
 ### Week 4 (22, 24 September)  
 
 **Topic:** The "Spatial Humanities". This week we will look at a variety of different projects from the humanities and humanities-adjacent fields that use spatial data to visualize phenomena, to tell stories and make arguments. Projects will come from a variety of disciplines. 
@@ -168,7 +167,7 @@ This week we will finish up with the idea of extracting data from digitized hist
 | 10 Nov | <br> -[Introducing Vectorizing in QGIS](https://digikar-qgis.github.io/tutorials/tutorial_3/text/) <br> -[An attempt at historical vectorization](https://www.jstor.org/stable/48785726?seq=1) <br> -[Companion data](https://zenodo.org/records/7812964) | <br> -Hands-on: Georeferencing & Vectorizing [Islam in Africa map](https://maps.lib.utexas.edu/maps/africa/africa_islam_87.jpg) <br> -[Collaborative Vectorization](https://maptiler.georeferencer.com/) |
 | 12 Nov | <br> -What is Data Modeling in the Humanities? (slides) <br> -Modeling Complex Sources (remember the phone book?) <br> -[Visualizing City Directories](https://csudigitalhumanities.org/2022/08/visualizing-city-directories/) <br> -[Euclid Avenue City Directory Data](https://visual.clevelandhistory.org/euclid/) | <br> -Introducing Assignment 3 <br> -Introducing the Final Oral Exam <br> -Data Modeling and LLM prompting |
 
-> Oral Exams during 27 November- 1 December. [Guidelines for oral exam](https://djwrisley.github.io/RLAC/oralreflectionquestions/). Sign ups available [here](). 
+> Oral Exams during 27 November- 1 December. [Guidelines for oral exam](https://djwrisley.github.io/RLAC/oralreflectionquestions/). Sign ups available [here](https://docs.google.com/spreadsheets/d/1Araz0hm9_53SWe8wJaICeDOjpUgdxDgS0GfpsqkepMA/edit?usp=sharing). 
 
 ### Week 11 (17, 19 November) 
 
