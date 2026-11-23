@@ -176,7 +176,7 @@ Instructor Away at a conference.  The first course on Tuesday will be an online 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 17 Nov (online) | <br> -What is Data Modeling in the Humanities? <br> -Modeling Complex Sources (remember the phone book?) |  |
-| 19 Nov | No Class | To be made up later in term |
+| 19 Nov | No Class | To be made up 26 November |
 
 **Oral exams**. Oral exams will be held outside of regular class hours at the end of the week of 23 November and the beginning of the next. 
 {: .notice}
@@ -189,20 +189,23 @@ Instructor Away at a conference.  The first course on Tuesday will be an online 
 
 **Topic:**  Changing Frontiers: Human versus Machine Descriptions of the World 
 
-Today we return to the concept of vectorization seen previously in the semester. Vectorization is a way that we can create a spatial polygon and connect it with a semantics. We will look at some of the newest ways that spatial data is being leveraged for  problem solving in domains such as urban planning, smart cities and geospatial intelligence, in addition to some of the critiques of such methods.
+Today we return to the concept of vectorization seen previously in the semester. We will look how spatial data is being leveraged for problem solving in domains such as urban planning, smart cities and geospatial intelligence, in addition to some of the critiques of such methods. We will also look at some of the newest ways that new earth maps are being created and location imputed.
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 24 Nov |  <br> -[What is GeoAI](https://geographypin.com/what-is-geoai/)  <br> -As Sea Levels Rise, Safeguarding a Sense of Place with a Digital Twin (Tuvalu) (Drive) <br> -Deep Learning Helps Automate Map Updates to Better Serve Citizens (Kuwait) (Drive) <br> -["What is Segmentation?"](https://segment-anything.metademolab.com/) <br> -["What is AI Vectorizer"](https://terra-lab.ai/blog/ai-edit-complete-guide) <br> -["More about AI Segmentation of Maps"](https://terra-lab.ai/blog/ai-segmentation-complete-guide) |
 | 26 Nov | <br> -"[GPS, But 100 Times Stronger, 26 July 2026](https://mapscaping.com/podcasts/)" [transcript here](https://mapscaping.com/podcast/gps-but-100-times-stronger/) <br> -"[High-Precision Location for Everything that Moves](2 November 2026)" [transcript here](https://mapscaping.com/podcast/high-precision-location-for-everything-that-moves/) | <br> -Discussion of Readings <br> -[Tips for the Oral Final Exam](https://djwrisley.github.io/DHS/final-oral-exam-tips/) |
+| 26 Nov | Extra session (evening, location TBA) for mock final oral exams | |  
 
 ### Week 13 (1 December)  
 
 **Topic:** Agentic Coding for GIS  
 
+We have explored map making as an activity that we can do with scripting languages, notably R. In this short week, we open the question of agentic coding for GIS and how we can coax agents into making maps without making things up. 
+
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 1 Dec | <br> -"[Agentic Coding for GIS People, 12 Nov 2026](https://mapscaping.com/podcasts/)" [transcript here](https://mapscaping.com/podcast/agentic-coding-for-gis-people/) | <br> -Critical hands-on with some AI GIS tools  |
+| 1 Dec | <br> -"[Agentic Coding for GIS People, 12 Nov 2026](https://mapscaping.com/podcasts/)" [transcript here](https://mapscaping.com/podcast/agentic-coding-for-gis-people/) | <br> -Critical hands-on with some AI GIS tools <br> -Exploration of [David Rumsey Map Collection text-on-maps](https://www.davidrumsey.com/home) <br> -[Guide to Searching Text on Maps](https://machines-reading-maps.github.io/rumsey/) |
 | 3 Dec | none | National Day Holiday! | 
 
 **Fourth (optional) Assignment Due: 13 December**.  Between Distant Coding and Prompt Cartography : Developing a Interactive Mapping Project using an LLM. Prompt [here](). Rubric in the rubric tab. 
@@ -212,16 +215,17 @@ Today we return to the concept of vectorization seen previously in the semester.
 
 **Topic:** "Prompt Cartography" 
 
-Winding down the semester we will look at one of the ways that LLMs are impacting the creation of maps, but also reemphasizing the importance on traditional skills of design and high quality data creation. 
+Winding down the semester, we will look at one of the ways that LLMs are impacting the creation of maps, but also reemphasizing the importance on traditional skills of design and high quality data creation. 
 
 | :--- | :--- | :--- |
-| 8 Dec |  <br> -What is Prompt Cartography? | <br> -Some more exploration (Rumsey text search in maps ) <br> -Redoing assignment 1 and 2 with prompts |
-| 10 Dec |  <br> -What is Prompt Cartography? 2 | -Discussion | 
+| 8 Dec |  <br> -What is Prompt Cartography? | <br> -Redoing assignment 1 and 2 with prompts |
+| 9 Dec | <br> -Extra session for those doing Assignment 4 (time to be announced) |  |
+| 10 Dec |  <br> -More on Prompt Cartography? 2 | <br> -Discussion <br> -Semester Wrap up | 
 
 
 ### Week 15 (14 December)
 
-**Topic:** Legislative Day. Semester wrap up.  
+**Topic:** Legislative Day. Semester wrap up. Instruction giving a lecture abroad.   
 
 | :--- | :--- | :--- |
-| 14 Dec | none | Semester Wrap up |
+| 14 Dec | No Class | To be made up 9 Dec |
