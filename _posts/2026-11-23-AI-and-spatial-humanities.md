@@ -42,18 +42,30 @@ Below is a map of India in which places with the expression is used. We created 
   </iframe>
 </div>
 
+Or look at this example for the UAE for Gulf and Bedouin topographic categories, using words like "Tawi", "Sayh", and "Khor". It has a slider separating the water lexicon and landform lexicon. 
 
-You will create a similar map using three clickable layers with three different linguistic traits found in placenames in a GeoNames data dump. For example, "spring," "farm," and "dale" in the UK. 
-
-Or this example for the UAE, using " ", " ", and " ".
+<div style="width:100%; height:70vh;">
+  <iframe
+    src="{{ '/assets/maps/uae_topographic_lexicon_swipe_map.html' | relative_url }}"
+    style="width:100%; height:100%; border:0;"
+    loading="lazy">
+  </iframe>
+</div>
 
 **Pre-exercise readings**
 
-Toponymy 
+Find a few articles related to toponymy or place names in the country of choice. 
+
+Explore the leaflet package. 
+
+Read the segment of prompt cartography. 
 
 **Main Elements**
 
-In this assignment, you will recreate your choice of one of the assignments, focusing on changing map design.  
+In this assignment, you will recreate your choice of one of the assignments, focusing on data enrichment and map design.
+
+
+
 
  has seven main elements: (1) read two guiding articles (2) choosing a source, (3) choosing a portion of the source material and identifying the spatial elements of this humanities source material (4) modeling a spatial dataset based on those elements as they are represented in the sources, (5) prompting the LLM of your choice to extract and organize the data according to the desired structured output, assessing the output and perhaps re-prompting AND/OR correcting the data manually (6) designing an interactive map and visualizing the data, and finally (7) discussion of both process and product using some readings data modeling in the humanities and LLM approaches.
 
