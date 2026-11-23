@@ -1,5 +1,5 @@
 ---
-title: "Assignment 4 On (geo)AI and Geospatial Humanities"
+title: "Assignment 4 On (geo)AI and Spatial Humanities"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

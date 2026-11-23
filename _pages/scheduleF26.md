@@ -167,7 +167,7 @@ This week we will finish up with the idea of extracting data from digitized hist
 | 10 Nov | <br> -[Introducing Vectorizing in QGIS](https://digikar-qgis.github.io/tutorials/tutorial_3/text/) <br> -[An attempt at historical vectorization](https://www.jstor.org/stable/48785726?seq=1) <br> -[Companion data](https://zenodo.org/records/7812964) | <br> -Hands-on: Georeferencing & Vectorizing [Islam in Africa map](https://maps.lib.utexas.edu/maps/africa/africa_islam_87.jpg) <br> -[Collaborative Vectorization](https://maptiler.georeferencer.com/) |
 | 12 Nov | <br> -What is Data Modeling in the Humanities? (slides) <br> -Modeling Complex Sources (remember the phone book?) <br> -[Visualizing City Directories](https://csudigitalhumanities.org/2022/08/visualizing-city-directories/) <br> -[Euclid Avenue City Directory Data](https://visual.clevelandhistory.org/euclid/) | <br> -Introducing Assignment 3 <br> -Introducing the Final Oral Exam <br> -Data Modeling and LLM prompting |
 
-> Oral Exams during 27 November- 1 December. [Guidelines for oral exam](https://djwrisley.github.io/RLAC/oralreflectionquestions/). Sign ups available [here](https://docs.google.com/spreadsheets/d/1Araz0hm9_53SWe8wJaICeDOjpUgdxDgS0GfpsqkepMA/edit?usp=sharing). 
+> Oral Exams during 27 November- 1 December. [Guidelines for oral exam](https://djwrisley.github.io/DHS/final-oral-exam-tips/). Sign ups available [here](https://docs.google.com/spreadsheets/d/1Araz0hm9_53SWe8wJaICeDOjpUgdxDgS0GfpsqkepMA/edit?usp=sharing). 
 
 ### Week 11 (17, 19 November) 
 
@@ -176,12 +176,12 @@ Instructor Away at a conference.  The first course on Tuesday will be an online 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 17 Nov (online) | <br> -What is Data Modeling in the Humanities? <br> -Modeling Complex Sources (remember the phone book?) |  |
-| 19 Nov | <br> -Complex Sources (mapping the pre-oil Gulf  Lorimer's _Gazetteer_ <br> -Data Modeling and LLM prompting |  |
+| 19 Nov | No Class | To be made up later in term |
 
 **Oral exams**. Oral exams will be held outside of regular class hours at the end of the week of 23 November and the beginning of the next. 
 {: .notice}
 
-**Third Assignment Due: 30 November, 11:59pm** Critical Data Manipulation with an LLM. Full Instructions [here](https://djwrisley.github.io/DHS/blog/Assignment3-F26/).
+**Third Assignment Due: 30 November, 11:59pm** Critical LLM-Assisted Modeling of Spatial Data [here](https://djwrisley.github.io/DHS/blog/Assignment3-F26/).
 {: .notice}
 
 
@@ -189,26 +189,24 @@ Instructor Away at a conference.  The first course on Tuesday will be an online 
 
 **Topic:**  Changing Frontiers: Human versus Machine Descriptions of the World 
 
-Today we return to the concept of vectorization seen previously in the semester. Vectorization is a way that we can create a spatial polygon and connect it with a semantics. We will see both 
+Today we return to the concept of vectorization seen previously in the semester. Vectorization is a way that we can create a spatial polygon and connect it with a semantics. We will look at some of the newest ways that spatial data is being leveraged for  problem solving in domains such as urban planning, smart cities and geospatial intelligence, in addition to some of the critiques of such methods.
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 24 Nov | <br> -What is humanitarian GIS? <br> -Crowdsourced knowledge for good | <br> -hands on with HOTOSM |
-| 26 Nov | <br> -How is AI changing geospatial technologies  <br> -What is GeoAI  <br> -Podcast on Machine Descriptions of the World |  Discussion  |
+| 24 Nov |  <br> -[What is GeoAI](https://geographypin.com/what-is-geoai/)  <br> -As Sea Levels Rise, Safeguarding a Sense of Place with a Digital Twin (Tuvalu) (Drive) <br> -Deep Learning Helps Automate Map Updates to Better Serve Citizens (Kuwait) (Drive) <br> -["What is Segmentation?"](https://segment-anything.metademolab.com/) <br> -["What is AI Vectorizer"](https://terra-lab.ai/blog/ai-edit-complete-guide) <br> -["More about AI Segmentation of Maps"](https://terra-lab.ai/blog/ai-segmentation-complete-guide) |
+| 26 Nov | <br> -"[GPS, But 100 Times Stronger, 26 July 2026](https://mapscaping.com/podcasts/)" [transcript here](https://mapscaping.com/podcast/gps-but-100-times-stronger/) <br> -"[High-Precision Location for Everything that Moves](2 November 2026)" [transcript here](https://mapscaping.com/podcast/high-precision-location-for-everything-that-moves/) | <br> -Discussion of Readings <br> -[Tips for the Oral Final Exam](https://djwrisley.github.io/DHS/final-oral-exam-tips/) |
 
 ### Week 13 (1 December)  
 
-**Topic:** GeoAI In Humanistic and Social Domains. 
-
-This week we will look at some of the newest ways that spatial data is being leveraged for  problem solving in domains such as urban planning, smart cities and geospatial intelligence, in addition to some of the critiques of such methods. 
+**Topic:** Agentic Coding for GIS  
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 1 Dec | <br> -What is GeoAI <br> -["What is Segmentation?"](https://segment-anything.metademolab.com/) <br> -["What is AI Vectorizer"](https://terra-lab.ai/blog/ai-edit-complete-guide) <br> -["More about AI Segmentation of Maps"](https://terra-lab.ai/blog/ai-segmentation-complete-guide) | <br> -hands on with vectorizing aerial images  <br> -Critical hands-on with some AI GIS tools  |
-| 3 Dec | none | National Day Holiday! |
+| 1 Dec | <br> -"[Agentic Coding for GIS People, 12 Nov 2026](https://mapscaping.com/podcasts/)" [transcript here](https://mapscaping.com/podcast/agentic-coding-for-gis-people/) | <br> -Critical hands-on with some AI GIS tools  |
+| 3 Dec | none | National Day Holiday! | 
 
-**Fourth (optional) Assignment Due: 13 December**.  Between Distant Coding and Prompt Cartography : Developing a Complex Interactive Mapping Project using an LLM. Prompt [here](). Rubric in the rubric tab. 
-{: .notice} 
+**Fourth (optional) Assignment Due: 13 December**.  Between Distant Coding and Prompt Cartography : Developing a Interactive Mapping Project using an LLM. Prompt [here](). Rubric in the rubric tab. 
+{: .notice}
 
 ### Week 14 (8, 10 December)  
 
