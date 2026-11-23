@@ -28,11 +28,19 @@ If you work in pairs, it can be written together, but should be posted on each o
 
 **Background** 
 
-In Assignment 1, we created an interactive visualization in three layers of GeoNames data for the country of your choice. 
+In Assignment 1, we created an interactive visualization in three layers of three different features in GeoNames data for the country of your choice. 
 
-In Assignment 2, we created an interactive map with three human- and two machine-annotated layers of the text _1 the Road._
+In this optional Assignment, number 4, you will focus on identifying linguistic or toponymic patterns in placenames in maps. 
 
-In Assignment 3, we used an LLM to extract data from city or business directory of your choice. 
+Here is a [map]() of India in which places with the expression is used. We created it in a spatial humanities seminar at IIT Delhi in January 2026.  
+
+You will create a similar map using three clickable layers with three different linguistic traits found in placenames in a GeoNames data dump. For example, "spring," "farm," and "dale" in the UK. 
+
+Or this example for the UAE, using " ", " ", and " ".
+
+**Pre-exercise readings**
+
+Toponymy 
 
 **Main Elements**
 
@@ -79,7 +87,7 @@ The last step is reflecting on the entire process, what you were able to create 
 
 # Guiding questions for this assignment:
 
-- What kind of source have your chosen? 
+- How have we outsourced our analysis?  
 - Are there any ethical reasons that this source should not be used? and its derived data made public? (e.g. are the people still alive?)
 - What can you find out about the place and time that are represented by the source? 
 - What kinds of data does that source provide? Were you surprised by any of the data that was available in printed sources? 
