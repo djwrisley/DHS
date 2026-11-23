@@ -34,6 +34,15 @@ In this optional Assignment, number 4, you will focus on identifying linguistic 
 
 Below is a map of India in which places with the expression is used. We created it in a spatial humanities seminar at IIT Delhi in January 2026.  
 
+<div style="width:100%; height:70vh;">
+  <iframe
+    src="{{ '/assets/maps/india_toponymic_suffixes.html' | relative_url }}"
+    style="width:100%; height:100%; border:0;"
+    loading="lazy">
+  </iframe>
+</div>
+
+
 You will create a similar map using three clickable layers with three different linguistic traits found in placenames in a GeoNames data dump. For example, "spring," "farm," and "dale" in the UK. 
 
 Or this example for the UAE, using " ", " ", and " ".
