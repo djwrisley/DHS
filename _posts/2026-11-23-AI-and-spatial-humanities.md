@@ -32,7 +32,7 @@ In Assignment 1, we created an interactive visualization in three layers of thre
 
 In this optional Assignment, number 4, you will focus on identifying linguistic or toponymic patterns in placenames in maps. 
 
-Here is a [map]() of India in which places with the expression is used. We created it in a spatial humanities seminar at IIT Delhi in January 2026.  
+Below is a map of India in which places with the expression is used. We created it in a spatial humanities seminar at IIT Delhi in January 2026.  
 
 You will create a similar map using three clickable layers with three different linguistic traits found in placenames in a GeoNames data dump. For example, "spring," "farm," and "dale" in the UK. 
 
