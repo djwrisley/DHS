@@ -16,24 +16,29 @@ tags:
 
 ## The Assignment
 
-The LLM-Assisted Modeling of Spatial Data Assignment is an assignment in one step. It builds upon the work we have done in class since 12 Nov. You will take a portion of one source, and "wrangle" a dataset from one of them by using the LLM(s) of your choice. 
+The On (geo)AI and Spatial Humanities Assignment is an assignment in one step. It builds upon the work we have done in class all semester, but particularly since 12 Nov. You will replicate one of the assignments (A1, A2 or A3), extending it using the LLM(s) of your choice. 
 
 - **Format**: Individual or pairs (maximum 2 people)
-- **Length**: Approximately 1500 words (about an 8-minute read), plus visuals (screenshots or saved images from the notebook) & a dataset published to your assets folder in Github (with anonymized names).
-- **Due Date**: Monday, 30 November 2026. 
+- **Length**: Approximately 1500 words (about an 8-minute read).
+- **Due Date**: Monday, 14 December 2026. 
 - **Medium**: a post in Github pages, with screenshots and an interactive map 
-- **Credit**: If you have only completed two assignments, this exercise will count as the third required. If you have completed three assignments, this assignment can replace one of the others, or count for up to 5 points of extra credit on the semester's grade. 
+- **Credit**: If you have only completed two assignments so far, this exercise will count as the third required one, that is, 30%. If you have completed three assignments, this assignment can replace one of the others if the grade is higher, or count for up to 5 points of extra credit on the semester's grade. 
 
 If you work in pairs, it can be written together, but should be posted on each of the team member's course site. 
 
-Sources:  
+**Background** 
 
-Here are some sources to work from: 
+In Assignment 1, we created an interactive visualization in three layers of GeoNames data for the country of your choice. 
 
+In Assignment 2, we created an interactive map with three human- and two machine-annotated layers of the text _1 the Road._
+
+In Assignment 3, we used an LLM to extract data from city or business directory of your choice. 
 
 **Main Elements**
 
-This assignment has seven main elements: (1) read two guiding articles (2) choosing a source, (3) choosing a portion of the source material and identifying the spatial elements of this humanities source material (4) modeling a spatial dataset based on those elements as they are represented in the sources, (5) prompting the LLM of your choice to extract and organize the data according to the desired structured output, assessing the output and perhaps re-prompting AND/OR correcting the data manually (6) designing an interactive map and visualizing the data, and finally (7) discussion of both process and product using some readings data modeling in the humanities and LLM approaches.
+In this assignment, you will recreate your choice of one of the assignments, focusing on changing map design.  
+
+ has seven main elements: (1) read two guiding articles (2) choosing a source, (3) choosing a portion of the source material and identifying the spatial elements of this humanities source material (4) modeling a spatial dataset based on those elements as they are represented in the sources, (5) prompting the LLM of your choice to extract and organize the data according to the desired structured output, assessing the output and perhaps re-prompting AND/OR correcting the data manually (6) designing an interactive map and visualizing the data, and finally (7) discussion of both process and product using some readings data modeling in the humanities and LLM approaches.
 
 
 **Step 1**: Read two articles 

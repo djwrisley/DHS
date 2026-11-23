@@ -205,10 +205,10 @@ We have explored map making as an activity that we can do with scripting languag
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 1 Dec | <br> -"[Agentic Coding for GIS People, 12 Nov 2026](https://mapscaping.com/podcasts/)" [transcript here](https://mapscaping.com/podcast/agentic-coding-for-gis-people/) | <br> -Critical hands-on with some AI GIS tools <br> -Exploration of [David Rumsey Map Collection text-on-maps](https://www.davidrumsey.com/home) <br> -[Guide to Searching Text on Maps](https://machines-reading-maps.github.io/rumsey/) |
+| 1 Dec | <br> -"[Agentic Coding for GIS People, 12 Nov 2026](https://mapscaping.com/podcasts/)" [transcript here](https://mapscaping.com/podcast/agentic-coding-for-gis-people/) <br> -["Ujaval Gandhi's Agentic Coding course"](https://courses.spatialthoughts.com/agentic-coding-geospatial.html) | <br> -Critical hands-on with some AI GIS tools <br> -Exploration of [David Rumsey Map Collection text-on-maps](https://www.davidrumsey.com/home) <br> -[Guide to Searching Text on Maps](https://machines-reading-maps.github.io/rumsey/) |
 | 3 Dec | none | National Day Holiday! | 
 
-**Fourth (optional) Assignment Due: 13 December**.  Between Distant Coding and Prompt Cartography : Developing a Interactive Mapping Project using an LLM. Prompt [here](). Rubric in the rubric tab. 
+**Fourth (optional) Assignment Due: 14 December**.  Between Distant Coding and Prompt Cartography : Developing a Interactive Map using an LLM. Prompt [here](https://djwrisley.github.io/DHS/blog/AI-and-spatial-humanities/). 
 {: .notice}
 
 ### Week 14 (8, 10 December)  
@@ -218,7 +218,7 @@ We have explored map making as an activity that we can do with scripting languag
 Winding down the semester, we will look at one of the ways that LLMs are impacting the creation of maps, but also reemphasizing the importance on traditional skills of design and high quality data creation. 
 
 | :--- | :--- | :--- |
-| 8 Dec |  <br> -What is Prompt Cartography? | <br> -Redoing assignment 1 and 2 with prompts |
+| 8 Dec |  <br> -What is Prompt Cartography? | <br> -Hands on: Redoing assignment 1 and 2 with prompts |
 | 9 Dec | <br> -Extra session for those doing Assignment 4 (time to be announced) |  |
 | 10 Dec |  <br> -More on Prompt Cartography? 2 | <br> -Discussion <br> -Semester Wrap up | 
 
