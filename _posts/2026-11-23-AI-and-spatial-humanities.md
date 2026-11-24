@@ -32,7 +32,7 @@ In Assignment 1, we created an interactive visualization in three layers of thre
 
 In this optional Assignment, number 4, you will focus on identifying linguistic or toponymic patterns in placenames and visualizing them using data from a Geonames dump. 
 
-Below is a draft map of India in which places containing specific patterns are used. It is based on a map I created during a spatial humanities seminar at IIT Delhi in January 2026.  
+Below is a draft map of India in which places containing specific patterns are used. It is based on a map I created during a spatial humanities seminar at IIT Delhi in January 2026. It communicates how certain placenames contain features pointing to language, religion and culture. 
 
 <div style="width:100%; height:70vh;">
   <iframe
@@ -87,7 +87,9 @@ It is unlikely that you will get it right the very first time. In your writeup o
 
 The last step is reflecting on the entire process, what you were able to create from your source, how it might be interesting to someone studying in the humanities as well as the challenges of the process. 
 
-# Guiding questions for this assignment:
+## Guiding questions for this assignment:
+
+You do not need to answer all of these questions; instead, use them to think through the assignment. 
 
 - How well do you know this country?
 - When you mapped the data, did you see any interesting patterns? Were there areas of concentration of points? Did mapping lead to any visible clusters? 
@@ -101,5 +103,3 @@ The last step is reflecting on the entire process, what you were able to create 
 - Can you think of any specific disadvantages of using this "prompt cartographic" method?
 - How much (or how little) freedom did prompting give you compared to the RMarkdown notebooks we used earlier in the course?
 - How does the way you filtered the data to reveal some of its features affect how it might be understood (you could refer back to any of the readings, perhaps Kitchin and Lauriault)? 
-
-Your assignment should be about 1500 words long, with relevant images, embedded links, interactive maps and discussion of your initial and revised prompts.
