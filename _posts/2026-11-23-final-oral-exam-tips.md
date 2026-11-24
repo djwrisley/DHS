@@ -29,7 +29,7 @@ The most important part of the Oral Exam is not all the knowledge you have memor
 
 ## Level 1 : Recall: Terms from the Class 
 
-- including, but not limited to, FOSS (free and open source software), open source, data modeling, data wrangling, tabular data, unstructured data, semi-structured data, structured data, georeferencing/georectification, vectorization, Soviet cartography, semantic annotation, interannotator disagreement, gazetteers, named entity recognition, optical character recognition (OCR), Recogito, geocoding, city directories, GPS satellites, information retrieval/extraction, prompt design, geoAI 
+- including, but not limited to, FOSS (free and open source software), open source, data modeling, data wrangling, tabular data, unstructured data, semi-structured data, structured data, georeferencing/georectification, vectorization, Soviet cartography, semantic annotation, interannotator disagreement, gazetteers, named entity recognition, optical character recognition (OCR), Recogito, geocoding, city directories, GPS satellites, information retrieval/extraction, prompt design, geoAI, feminist geography 
 
 > Sample question: "Tell me in your own words about the concept of X." 
 
@@ -41,7 +41,7 @@ The most important part of the Oral Exam is not all the knowledge you have memor
 - What's one idea from the readings or classes you disagree with? Why?
 - Which element of thinking about data made the greatest impression on you? Why?
 - Which genre of material do you like the best (podcast, essay, digital project)?
-- What new technical skills have you been exposed to? 
+- What insights do you have from new technical skills have you been exposed to?
 - Which tools do you imagine you will use after the course? Why?
 - Which concepts presented in the course are the most challenging to understand? 
 
@@ -56,6 +56,7 @@ The most important part of the Oral Exam is not all the knowledge you have memor
 - What assumptions does the automated system make when matching place names to coordinates? (A2)
 - What did you learn about the topic of your assignment that you didn't know before (A2/A3)? 
 - Do you imagine that you will use computer/LLM-assisted approaches in the future to work with data? Why or why not? (A2/A3)
+- What kinds of biases can we find embedded in data (A2/A3)?
 
 > NB: I will have a 'question bank' and so they will not be exactly the ones listed above. 
 
@@ -65,6 +66,7 @@ The most important part of the Oral Exam is not all the knowledge you have memor
 - What are you not sure about in the class that you would like to dive deeper into? 
 - How do the materials of the class relate to your experiences? 
 - What subject of the class have you told your friends about?
+- If you were to take a follow up class related to this one, what would the topic be about? 
 
 > NB: I will have a 'question bank' and so they will not be exactly the ones listed above.
 
