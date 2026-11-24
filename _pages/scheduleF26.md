@@ -193,9 +193,9 @@ Today we return to the concept of vectorization seen previously in the semester.
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 24 Nov |  <br> -[What is GeoAI](https://geographypin.com/what-is-geoai/)  <br> -As Sea Levels Rise, Safeguarding a Sense of Place with a Digital Twin (Tuvalu) (Drive) <br> -Deep Learning Helps Automate Map Updates to Better Serve Citizens (Kuwait) (Drive) <br> -["What is Segmentation?"](https://segment-anything.metademolab.com/) <br> -["What is AI Vectorizer"](https://terra-lab.ai/blog/ai-edit-complete-guide) <br> -["More about AI Segmentation of Maps"](https://terra-lab.ai/blog/ai-segmentation-complete-guide) |
-| 26 Nov | <br> -"[GPS, But 100 Times Stronger, 26 July 2026](https://mapscaping.com/podcasts/)" [transcript here](https://mapscaping.com/podcast/gps-but-100-times-stronger/) <br> -"[High-Precision Location for Everything that Moves](2 November 2026)" [transcript here](https://mapscaping.com/podcast/high-precision-location-for-everything-that-moves/) | <br> -Discussion of Readings <br> -[Tips for the Oral Final Exam](https://djwrisley.github.io/DHS/final-oral-exam-tips/) |
-| 26 Nov | Extra session (evening, location TBA) for mock final oral exams | |  
+| 24 Nov |  <br> -[What is GeoAI](https://geographypin.com/what-is-geoai/)  <br> -["What is Segmentation?"](https://segment-anything.metademolab.com/) <br> -["What is AI Vectorizer"](https://terra-lab.ai/blog/ai-edit-complete-guide) <br> -["More about AI Segmentation of Maps"](https://terra-lab.ai/blog/ai-segmentation-complete-guide) <br> -"As Sea Levels Rise, Safeguarding a Sense of Place with a Digital Twin (Tuvalu)" (Drive) <br> -"Deep Learning Helps Automate Map Updates to Better Serve Citizens (Kuwait)" (Drive) <br> -"[GeoAI for the Digitization of Historical Maps](https://search.abudhabi.library.nyu.edu/permalink/01NYU_AD/13vdfeh/alma99104671484607871)" (ch 31) | |
+| 26 Nov | <br> -"[GPS, But 100 Times Stronger, 26 July 2026](https://mapscaping.com/podcasts/)" [transcript here](https://mapscaping.com/podcast/gps-but-100-times-stronger/) <br> -"[High-Precision Location for Everything that Moves](2 November 2026)" [transcript here](https://mapscaping.com/podcast/high-precision-location-for-everything-that-moves/) <br> - "[Privacy and Ethics in GeoAI](https://search.abudhabi.library.nyu.edu/permalink/01NYU_AD/13vdfeh/alma99104671484607871)" (ch 19) <br> -"[Navigating GeoAI: Feminist Critiques for Information Professionals](https://doi.org/10.1080/15420353.2026.2619101)"  | <br> -Discussion of Readings: Better Satellite Data or Better Data Science or More Ethical Approaches? <br> -[Tips for the Oral Final Exam](https://djwrisley.github.io/DHS/final-oral-exam-tips/) |
+| 26 Nov (630-8pm) | Extra session for mock final oral exams | Practice |  
 
 ### Week 13 (1 December)  
 
@@ -208,7 +208,7 @@ We have explored map making as an activity that we can do with scripting languag
 | 1 Dec | <br> -"[Agentic Coding for GIS People, 12 Nov 2026](https://mapscaping.com/podcasts/)" [transcript here](https://mapscaping.com/podcast/agentic-coding-for-gis-people/) <br> -["Ujaval Gandhi's Agentic Coding course"](https://courses.spatialthoughts.com/agentic-coding-geospatial.html) | <br> -Critical hands-on with some AI GIS tools <br> -Exploration of [David Rumsey Map Collection text-on-maps](https://www.davidrumsey.com/home) <br> -[Guide to Searching Text on Maps](https://machines-reading-maps.github.io/rumsey/) |
 | 3 Dec | none | National Day Holiday! | 
 
-**Fourth (optional) Assignment Due: 14 December**.  Between Distant Coding and Prompt Cartography : Developing a Interactive Map using an LLM. Prompt [here](https://djwrisley.github.io/DHS/blog/AI-and-spatial-humanities/). 
+**Fourth (optional) Assignment Due: 14 December**.  Prompt Cartography and Spatial Humanities. Prompt [here](https://djwrisley.github.io/DHS/blog/AI-and-spatial-humanities/). 
 {: .notice}
 
 ### Week 14 (8, 10 December)  
@@ -218,7 +218,7 @@ We have explored map making as an activity that we can do with scripting languag
 Winding down the semester, we will look at one of the ways that LLMs are impacting the creation of maps, but also reemphasizing the importance on traditional skills of design and high quality data creation. 
 
 | :--- | :--- | :--- |
-| 8 Dec |  <br> -What is Prompt Cartography? | <br> -Hands on: Redoing assignment 1 and 2 with prompts |
+| 8 Dec |  <br> -_Prompt Cartography_, “From Web Cartographer to Prompt Cartography Director” and “Learning to Speak via Prompt” [ebook](https://search.abudhabi.library.nyu.edu/permalink/01NYU_AD/13vdfeh/alma99104771366707871) | <br> -Hands on: Attempting a remake of assignment 2 with prompts |
 | 9 Dec | <br> -Extra session for those doing Assignment 4 (time to be announced) |  |
 | 10 Dec |  <br> -More on Prompt Cartography? 2 | <br> -Discussion <br> -Semester Wrap up | 
 
