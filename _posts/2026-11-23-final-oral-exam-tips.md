@@ -29,7 +29,7 @@ The most important part of the Oral Exam is not all the knowledge you have memor
 
 ## Level 1 : Recall: Terms from the Class 
 
-- including, but not limited to, FOSS (free and open source software), open source, data modeling, data wrangling, tabular data, unstructured data, semi-structured data, structured data, georeferencing/georectification, vectorization, Soviet cartography, semantic annotation, interannotator disagreement, gazetteers, named entity recognition, optical character recognition (OCR), Recogito, geocoding, city directories, GPS satellites, information retrieval/extraction, prompt design, geoAI, feminist geography 
+- including, but not limited to, FOSS (free and open source software), open source, data modeling, data wrangling, tabular data, unstructured data, semi-structured data, structured data, georeferencing/georectification, vectorization, Soviet cartography, semantic annotation, interannotator disagreement, gazetteers, named entity recognition, optical character recognition (OCR), Recogito, geocoding, city directories, GPS satellites, digital twin, information retrieval/extraction, prompt design, geoAI, feminist geography 
 
 > Sample question: "Tell me in your own words about the concept of X." 
 
