@@ -91,8 +91,8 @@ The last step is reflecting on the entire process, what you were able to create 
 
 You do not need to answer all of these questions; instead, use them to think through the assignment. 
 
-- How well do you know this country?
-- When you mapped the data, did you see any interesting patterns? Were there areas of concentration of points? Did mapping lead to any visible clusters? 
+- How well do you know this country? 
+- When you mapped the data, did you see any interesting or surprising patterns? Were there areas of concentration of points? Did mapping lead to any visible clusters? 
 - What kinds of linguistic and toponymic features did you learn about typical of this place?
 - How did any suggestions about relevant features in the dataset given by the LLM match (or not match) your research?
 - How much of your work do you feel  you outsourced to a machine?
@@ -101,5 +101,6 @@ You do not need to answer all of these questions; instead, use them to think thr
 - Did diagnosing issues in the India or UAE maps help you understand issues in yours? If so, how?
 - Do you agree with Muehlenhaus that anticipating the audience for a given map is a key design principle? Why? 
 - Can you think of any specific disadvantages of using this "prompt cartographic" method?
+- Based on the idea of the "[Turing test](https://en.wikipedia.org/wiki/Turing_test)," a test of how indistinguable human and machine performance capacity can be, did the LLM as cartographer pass this test? or was too much human input required to give it a pass?
 - How much (or how little) freedom did prompting give you compared to the RMarkdown notebooks we used earlier in the course?
 - How does the way you filtered the data to reveal some of its features affect how it might be understood (you could refer back to any of the readings, perhaps Kitchin and Lauriault)? 
