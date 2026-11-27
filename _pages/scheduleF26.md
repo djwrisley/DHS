@@ -181,7 +181,7 @@ Instructor Away at a conference.  The first course on Tuesday will be an online 
 **Oral exams**. Oral exams will be held outside of regular class hours at the end of the week of 23 November and the beginning of the next. 
 {: .notice}
 
-**Third Assignment Due: 30 November, 11:59pm** Critical LLM-Assisted Modeling of Spatial Data [here](https://djwrisley.github.io/DHS/blog/Assignment3-F26/).
+**Third Assignment Due: 2 December, 11:59pm** Critical LLM-Assisted Modeling of Spatial Data [here](https://djwrisley.github.io/DHS/blog/Assignment3-F26/).
 {: .notice}
 
 
